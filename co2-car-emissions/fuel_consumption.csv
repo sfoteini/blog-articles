@@ -1,0 +1,1051 @@
+Year;Make;Model;Vehicle Class;Engine Size (L);Cylinders;Transmission;Fuel Type;Fuel Consumption City; Fuel Consumption Hwy; Fuel Consumption Combined; Fuel Consumption Combined (mpg);CO2 Emissions
+2019;Acura;ILX;Compact;24;4;AM8;Z;99;70;86;33;199
+2019;Acura;MDX SH-AWD;SUV: Small;35;6;AS9;Z;122;90;108;26;252
+2019;Acura;MDX SH-AWD A-SPEC;SUV: Small;35;6;AS9;Z;122;95;110;26;258
+2019;Acura;MDX Hybrid AWD;SUV: Small;30;6;AM7;Z;91;90;90;31;210
+2019;Acura;NSX;Two-seater;35;6;AM9;Z;111;108;110;26;261
+2019;Acura;RDX AWD;SUV: Small;20;4;AS10;Z;110;86;99;29;232
+2019;Acura;RDX AWD A-SPEC;SUV: Small;20;4;AS10;Z;113;91;103;27;242
+2019;Acura;RLX Hybrid;Mid-size;35;6;AM7;Z;84;82;84;34;196
+2019;Acura;TLX;Compact;24;4;AM8;Z;100;71;87;32;205
+2019;Acura;TLX A-SPEC;Compact;24;4;AM8;Z;102;74;89;32;209
+2019;Acura;TLX SH-AWD;Compact;35;6;AS9;Z;114;77;98;29;228
+2019;Acura;TLX SH-AWD A-SPEC;Compact;35;6;AS9;Z;120;82;103;27;240
+2019;Alfa Romeo;4C Coupe;Two-seater;18;4;AM6;Z;97;69;84;34;197
+2019;Alfa Romeo;4C Spider;Two-seater;18;4;AM6;Z;97;69;84;34;197
+2019;Alfa Romeo;Giulia;Mid-size;20;4;A8;Z;100;72;87;32;205
+2019;Alfa Romeo;Giulia AWD;Mid-size;20;4;A8;Z;105;77;92;31;217
+2019;Alfa Romeo;Giulia Quadrifoglio;Mid-size;29;6;A8;Z;138;96;119;24;280
+2019;Alfa Romeo;Stelvio;SUV: Small;20;4;A8;Z;103;81;93;30;218
+2019;Alfa Romeo;Stelvio AWD;SUV: Small;20;4;A8;Z;108;83;96;29;226
+2019;Alfa Romeo;Stelvio AWD Quadrifoglio;SUV: Small;29;6;A8;Z;141;104;124;23;292
+2019;Aston Martin;DB11 V8;Minicompact;40;8;A8;Z;130;98;115;25;271
+2019;Aston Martin;DB11 AMR;Minicompact;52;12;A8;Z;155;106;133;21;312
+2019;Aston Martin;DBS Superleggera;Minicompact;52;12;A8;Z;164;107;138;20;324
+2019;Aston Martin;Rapide AMR;Subcompact;60;12;A8;Z;167;109;141;20;332
+2019;Aston Martin;Vanquish Zagato;Minicompact;60;12;A8;Z;175;114;147;19;346
+2019;Aston Martin;Vantage V8;Two-seater;40;8;A8;Z;127;94;112;25;264
+2019;Audi;A3;Subcompact;20;4;AM7;X;91;68;81;35;188
+2019;Audi;A3 quattro;Subcompact;20;4;AM7;X;109;79;96;29;225
+2019;Audi;A3 Cabriolet quattro;Subcompact;20;4;AM7;X;107;79;95;30;221
+2019;Audi;A4;Compact;20;4;AM7;Z;86;69;78;36;182
+2019;Audi;A4 quattro;Compact;20;4;AM7;Z;100;70;87;32;204
+2019;Audi;A4 allroad quattro;Station wagon: Small;20;4;AM7;Z;107;80;95;30;221
+2019;Audi;A5 quattro;Subcompact;20;4;AM7;Z;100;70;87;32;204
+2019;Audi;A5 Cabriolet quattro;Subcompact;20;4;AM7;Z;100;70;87;32;204
+2019;Audi;A5 Sportback quattro;Mid-size;20;4;AM7;Z;100;70;87;32;204
+2019;Audi;A6 quattro;Mid-size;30;6;AM7;Z;107;82;96;29;224
+2019;Audi;A7 quattro;Mid-size;30;6;AM7;Z;107;82;96;29;224
+2019;Audi;A8L;Full-size;30;6;AS8;Z;125;86;108;26;252
+2019;Audi;Q3 quattro;SUV: Small;20;4;AS8;X;123;86;106;27;248
+2019;Audi;Q5;SUV: Small;20;4;AM7;Z;109;87;99;29;230
+2019;Audi;Q7;SUV: Standard;20;4;AS8;Z;122;95;110;26;258
+2019;Audi;Q7;SUV: Standard;30;6;AS8;Z;126;94;111;25;260
+2019;Audi;Q8;SUV: Standard;30;6;AS8;Z;140;107;125;23;294
+2019;Audi;RS 3;Subcompact;25;5;AM7;Z;124;84;106;27;247
+2019;Audi;RS 5 Coupe;Subcompact;29;6;AS8;Z;133;87;113;25;262
+2019;Audi;RS 5 Sportback;Mid-size;29;6;AS8;Z;135;90;115;25;268
+2019;Audi;S3;Subcompact;20;4;AM7;Z;107;80;95;30;222
+2019;Audi;S4;Compact;30;6;AS8;Z;113;80;98;29;230
+2019;Audi;S5;Subcompact;30;6;AS8;Z;113;80;98;29;230
+2019;Audi;S5 Cabriolet;Subcompact;30;6;AS8;Z;114;82;99;29;234
+2019;Audi;S5 Sportback;Mid-size;30;6;AS8;Z;113;80;98;29;230
+2019;Audi;SQ5;SUV: Small;30;6;AS8;Z;127;100;115;25;270
+2019;Audi;TT Coupe quattro;Subcompact;20;4;AM7;X;103;77;92;31;213
+2019;Audi;TT Roadster quattro;Two-seater;20;4;AM7;X;103;77;92;31;213
+2019;Audi;TT RS Coupe;Subcompact;25;5;AM7;Z;120;83;103;27;241
+2019;Audi;TTS Coupe;Subcompact;20;4;AM7;Z;104;82;94;30;220
+2019;Bentley;Bentayga;SUV: Standard;40;8;AS8;Z;164;101;136;21;315
+2019;Bentley;Mulsanne;Mid-size;68;8;AS8;Z;245;144;200;14;465
+2019;BMW;230i xDrive Cabriolet;Subcompact;20;4;AS8;Z;102;72;88;32;207
+2019;BMW;230i xDrive Coupe;Subcompact;20;4;AS8;Z;99;71;86;33;202
+2019;BMW;330i xDrive;Compact;20;4;AS8;Z;95;69;83;34;194
+2019;BMW;330i xDrive Gran Turismo;Full-size;20;4;AS8;Z;102;72;88;32;207
+2019;BMW;330i xDrive Touring;Station wagon: Small;20;4;AS8;Z;102;72;88;32;207
+2019;BMW;430i xDrive Cabriolet;Subcompact;20;4;AS8;Z;106;73;91;31;213
+2019;BMW;430i xDrive Coupe;Compact;20;4;AS8;Z;102;72;88;32;207
+2019;BMW;430i xDrive Gran Coupe;Compact;20;4;AS8;Z;102;72;88;32;207
+2019;BMW;440i Coupe;Compact;30;6;AS8;Z;112;73;94;30;227
+2019;BMW;440i Coupe;Compact;30;6;M6;Z;128;88;110;26;256
+2019;BMW;440i xDrive Cabriolet;Subcompact;30;6;AS8;Z;118;79;100;28;235
+2019;BMW;440i xDrive Coupe;Compact;30;6;AS8;Z;114;76;97;29;228
+2019;BMW;440i xDrive Coupe;Compact;30;6;M6;Z;130;85;110;26;256
+2019;BMW;440i xDrive Gran Coupe;Compact;30;6;AS8;Z;114;76;97;29;228
+2019;BMW;530i xDrive;Mid-size;20;4;AS8;Z;102;72;88;32;207
+2019;BMW;540i xDrive;Mid-size;30;6;AS8;Z;112;81;98;29;231
+2019;BMW;640i xDrive Gran Coupe;Compact;30;6;AS8;Z;123;84;105;27;248
+2019;BMW;640i xDrive Gran Turismo;Full-size;30;6;AS8;Z;119;84;103;27;241
+2019;BMW;650i xDrive Gran Coupe;Compact;44;8;AS8;Z;140;96;120;24;282
+2019;BMW;750i xDrive;Full-size;44;8;AS8;Z;133;92;115;25;269
+2019;BMW;750Li xDrive;Full-size;44;8;AS8;Z;140;96;120;24;282
+2019;BMW;Alpina B6 xDrive Gran Coupe;Compact;44;8;AS8;Z;140;96;120;24;282
+2019;BMW;Alpina B7 xDrive;Full-size;44;8;AS8;Z;140;96;120;24;282
+2019;BMW;M2 Competition;Subcompact;30;6;AM7;Z;143;104;126;22;294
+2019;BMW;M2 Competition;Subcompact;30;6;M6;Z;134;96;117;24;273
+2019;BMW;M240i Cabriolet;Subcompact;30;6;AS8;Z;112;78;97;29;227
+2019;BMW;M240i Cabriolet;Subcompact;30;6;M6;Z;128;88;110;26;256
+2019;BMW;M240i Coupe;Subcompact;30;6;AS8;Z;112;78;97;29;227
+2019;BMW;M240i Coupe;Subcompact;30;6;M6;Z;128;88;110;26;256
+2019;BMW;M240i Coupe M Performance;Subcompact;30;6;AS8;Z;112;78;97;29;227
+2019;BMW;M240i Coupe M Performance;Subcompact;30;6;M6;Z;128;88;110;26;256
+2019;BMW;M240i xDrive Cabriolet;Subcompact;30;6;AS8;Z;113;80;98;29;229
+2019;BMW;M240i xDrive Coupe;Subcompact;30;6;AS8;Z;113;80;98;29;229
+2019;BMW;M240i xDrive Coupe M Performance;Subcompact;30;6;AS8;Z;113;80;98;29;229
+2019;BMW;M4 Cabriolet;Subcompact;30;6;AM7;Z;145;105;127;22;299
+2019;BMW;M4 Cabriolet;Subcompact;30;6;M6;Z;138;94;119;24;280
+2019;BMW;M4 Cabriolet Competition;Subcompact;30;6;AM7;Z;145;105;127;22;299
+2019;BMW;M4 Cabriolet Competition;Subcompact;30;6;M6;Z;138;94;119;24;280
+2019;BMW;M4 Coupe;Compact;30;6;AM7;Z;143;104;126;22;294
+2019;BMW;M4 Coupe;Compact;30;6;M6;Z;134;96;117;24;273
+2019;BMW;M4 Coupe Competition;Compact;30;6;AM7;Z;143;104;126;22;294
+2019;BMW;M4 Coupe Competition;Compact;30;6;M6;Z;134;96;117;24;273
+2019;BMW;M4 CS;Compact;30;6;AM7;Z;143;104;126;22;294
+2019;BMW;M5;Mid-size;44;8;AS8;Z;160;112;139;20;324
+2019;BMW;M5 Competition;Mid-size;44;8;AS8;Z;160;112;139;20;324
+2019;BMW;M550i xDrive;Mid-size;44;8;AS8;Z;133;92;115;25;269
+2019;BMW;M6 Gran Coupe;Compact;44;8;AM7;Z;173;116;147;19;344
+2019;BMW;M760Li xDrive;Full-size;66;12;AS8;Z;177;119;151;19;355
+2019;BMW;M850i xDrive Cabriolet;Subcompact;44;8;AS8;Z;135;92;116;24;270
+2019;BMW;M850i xDrive Coupe;Subcompact;44;8;AS8;Z;133;92;115;25;269
+2019;BMW;X1 xDrive28i;SUV: Small;20;4;AS8;Z;107;75;93;30;217
+2019;BMW;X2 xDrive28i;SUV: Small;20;4;AS8;Z;110;77;95;30;222
+2019;BMW;X3 xDrive30i;SUV: Small;20;4;AS8;Z;108;80;96;29;223
+2019;BMW;X3 M40i;SUV: Small;30;6;AS8;Z;119;87;104;27;245
+2019;BMW;X4 xDrive30i;SUV: Small;20;4;AS8;Z;108;80;96;29;223
+2019;BMW;X4 M40i;SUV: Small;30;6;AS8;Z;119;87;104;27;245
+2019;BMW;X5 xDrive40i;SUV: Standard;30;6;AS8;Z;117;91;105;27;245
+2019;BMW;X5 xDrive50i;SUV: Standard;44;8;AS8;Z;153;111;134;21;314
+2019;BMW;X6 xDrive35i;SUV: Standard;30;6;AS8;Z;130;99;116;24;272
+2019;BMW;X6 xDrive50i;SUV: Standard;44;8;AS8;Z;143;106;126;22;294
+2019;BMW;X6 M;SUV: Standard;44;8;AS8;Z;166;121;146;19;341
+2019;BMW;X7 xDrive40i;SUV: Standard;30;6;AS8;Z;120;94;108;26;254
+2019;BMW;X7 xDrive50i;SUV: Standard;44;8;AS8;Z;143;106;126;22;294
+2019;Bugatti;Chiron;Two-seater;80;16;AM7;Z;268;166;222;13;522
+2019;Buick;Enclave;SUV: Standard;36;6;A9;X;130;91;112;25;263
+2019;Buick;Enclave AWD;SUV: Standard;36;6;A9;X;138;95;119;24;278
+2019;Buick;Encore;SUV: Small;14;4;AS6;X;94;78;87;32;204
+2019;Buick;Encore (SIDI with Stop/Start);SUV: Small;14;4;AS6;X;89;75;83;34;194
+2019;Buick;Encore AWD;SUV: Small;14;4;AS6;X;99;81;91;31;214
+2019;Buick;Encore AWD (SIDI with Stop/Start);SUV: Small;14;4;AS6;X;94;79;88;32;205
+2019;Buick;Envision AWD;SUV: Small;20;4;A9;Z;117;94;107;26;249
+2019;Buick;Envision AWD;SUV: Small;25;4;A6;X;111;86;100;28;234
+2019;Buick;LaCrosse;Mid-size;36;6;AS9;X;117;78;99;29;233
+2019;Buick;LaCrosse eAssist;Mid-size;25;4;AS6;X;94;68;82;34;192
+2019;Buick;LaCrosse AWD;Mid-size;36;6;AS9;X;117;82;101;28;238
+2019;Buick;Regal;Mid-size;20;4;AS9;Z;106;74;91;31;214
+2019;Buick;Regal AWD;Mid-size;20;4;AS8;Z;110;80;96;29;227
+2019;Buick;Regal AWD;Mid-size;36;6;AS9;X;124;87;107;26;251
+2019;Cadillac;CT6 AWD;Full-size;30;6;AS10;Z;131;91;113;25;267
+2019;Cadillac;CT6 AWD;Full-size;36;6;AS10;X;130;88;111;25;261
+2019;Cadillac;CT6 AWD;Full-size;42;8;AS10;Z;173;95;138;20;324
+2019;Cadillac;CTS;Mid-size;20;4;AS8;Z;110;78;95;30;222
+2019;Cadillac;CTS;Mid-size;36;6;AS8;X;123;82;105;27;246
+2019;Cadillac;CTS AWD;Mid-size;20;4;AS8;Z;114;81;99;29;232
+2019;Cadillac;CTS AWD;Mid-size;36;6;AS8;X;133;92;115;25;269
+2019;Cadillac;CTS Vsport;Mid-size;36;6;AS8;Z;150;99;127;22;298
+2019;Cadillac;CTS-V;Mid-size;62;8;AS8;Z;171;110;143;20;337
+2019;Cadillac;Escalade 4WD;SUV: Standard;62;8;A10;Z;166;109;140;20;328
+2019;Cadillac;XT4;SUV: Small;20;4;AS9;Z;98;78;89;32;209
+2019;Cadillac;XT4 AWD;SUV: Small;20;4;AS9;Z;109;82;97;29;227
+2019;Cadillac;XT5;SUV: Small;36;6;AS8;X;121;89;106;27;250
+2019;Cadillac;XT5 AWD;SUV: Small;36;6;AS8;X;128;93;112;25;263
+2019;Cadillac;XTS;Full-size;36;6;AS6;X;129;87;110;26;259
+2019;Cadillac;XTS AWD;Full-size;36;6;AS6;X;137;90;116;24;272
+2019;Cadillac;XTS Vsport AWD;Full-size;36;6;AS6;Z;150;101;128;22;302
+2019;Chevrolet;Blazer;SUV: Small;25;4;A9;X;108;88;99;29;232
+2019;Chevrolet;Blazer;SUV: Small;36;6;A9;X;120;90;106;27;250
+2019;Chevrolet;Blazer AWD;SUV: Small;36;6;A9;X;127;95;113;25;265
+2019;Chevrolet;Camaro;Subcompact;20;4;AS8;Z;108;77;94;30;220
+2019;Chevrolet;Camaro;Subcompact;20;4;M6;Z;119;79;101;28;235
+2019;Chevrolet;Camaro;Subcompact;36;6;AS8;X;123;82;104;27;246
+2019;Chevrolet;Camaro;Subcompact;36;6;M6;X;143;88;118;24;277
+2019;Chevrolet;Camaro SS;Subcompact;62;8;AS10;Z;145;88;120;24;279
+2019;Chevrolet;Camaro SS;Subcompact;62;8;M6;Z;149;99;126;22;297
+2019;Chevrolet;Camaro ZL1;Subcompact;62;8;AS10;Z;183;112;151;19;355
+2019;Chevrolet;Camaro ZL1;Subcompact;62;8;M6;Z;172;120;149;19;349
+2019;Chevrolet;Colorado;Pickup truck: Small;25;4;A6;X;121;92;108;26;253
+2019;Chevrolet;Colorado;Pickup truck: Small;25;4;M6;X;119;92;107;26;251
+2019;Chevrolet;Colorado;Pickup truck: Small;28;4;A6;D;118;79;101;28;270
+2019;Chevrolet;Colorado;Pickup truck: Small;36;6;A8;X;134;96;117;24;274
+2019;Chevrolet;Colorado 4WD;Pickup truck: Small;25;4;A6;X;127;98;114;25;267
+2019;Chevrolet;Colorado 4WD;Pickup truck: Small;28;4;A6;D;122;84;105;27;283
+2019;Chevrolet;Colorado 4WD;Pickup truck: Small;36;6;A8;X;140;99;122;23;286
+2019;Chevrolet;Colorado ZR2 4WD;Pickup truck: Small;28;4;A6;D;133;106;121;23;326
+2019;Chevrolet;Colorado ZR2 4WD;Pickup truck: Small;36;6;A8;X;150;130;141;20;331
+2019;Chevrolet;Corvette;Two-seater;62;8;AS8;Z;156;92;127;22;299
+2019;Chevrolet;Corvette;Two-seater;62;8;M7;Z;146;93;122;23;286
+2019;Chevrolet;Corvette Z06;Two-seater;62;8;AS8;Z;172;101;140;20;331
+2019;Chevrolet;Corvette Z06;Two-seater;62;8;M7;Z;159;106;135;21;318
+2019;Chevrolet;Corvette ZR1;Two-seater;62;8;AS8;Z;195;120;161;18;381
+2019;Chevrolet;Corvette ZR1;Two-seater;62;8;M7;Z;182;125;156;18;368
+2019;Chevrolet;Cruze;Compact;14;4;AS6;X;83;62;73;39;172
+2019;Chevrolet;Cruze Premier;Compact;14;4;AS6;X;83;62;73;39;172
+2019;Chevrolet;Cruze Diesel;Compact;16;4;A9;D;76;49;64;44;172
+2019;Chevrolet;Cruze Hatchback;Mid-size;14;4;AS6;X;83;62;73;39;172
+2019;Chevrolet;Cruze Hatchback Premier;Mid-size;14;4;AS6;X;85;64;75;38;175
+2019;Chevrolet;Cruze Hatchback Diesel;Mid-size;16;4;A9;D;78;52;66;43;178
+2019;Chevrolet;Equinox;SUV: Small;15;4;A6;X;92;73;83;34;196
+2019;Chevrolet;Equinox;SUV: Small;16;4;A6;D;85;60;74;38;199
+2019;Chevrolet;Equinox AWD;SUV: Small;15;4;A6;X;93;78;86;33;207
+2019;Chevrolet;Equinox AWD;SUV: Small;16;4;A6;D;85;61;74;38;199
+2019;Chevrolet;Equinox AWD;SUV: Small;20;4;A9;Z;109;83;97;29;228
+2019;Chevrolet;Impala;Full-size;25;4;AS6;X;108;80;96;29;225
+2019;Chevrolet;Impala;Full-size;36;6;AS6;X;127;85;108;26;254
+2019;Chevrolet;Impala;Full-size;36;6;AS6;E;172;116;146;19;245
+2019;Chevrolet;Malibu;Mid-size;15;4;AV;X;82;66;75;38;174
+2019;Chevrolet;Malibu;Mid-size;20;4;A9;Z;105;74;91;31;214
+2019;Chevrolet;Malibu Hybrid;Mid-size;18;4;AV;X;48;55;51;55;121
+2019;Chevrolet;Silverado;Pickup truck: Standard;27;4;A8;X;119;103;111;25;261
+2019;Chevrolet;Silverado;Pickup truck: Standard;43;6;A6;X;151;115;135;21;316
+2019;Chevrolet;Silverado;Pickup truck: Standard;53;8;A6;X;159;114;139;20;326
+2019;Chevrolet;Silverado FFV;Pickup truck: Standard;53;8;A6;X;157;119;140;20;329
+2019;Chevrolet;Silverado FFV;Pickup truck: Standard;53;8;A6;E;211;150;184;15;306
+2019;Chevrolet;Silverado;Pickup truck: Standard;53;8;A8;X;141;102;124;23;290
+2019;Chevrolet;Silverado 4WD;Pickup truck: Standard;27;4;A8;X;125;108;117;24;275
+2019;Chevrolet;Silverado 4WD;Pickup truck: Standard;43;6;A6;X;158;119;140;20;329
+2019;Chevrolet;Silverado 4WD Trail Boss;Pickup truck: Standard;43;6;A6;X;163;129;148;19;347
+2019;Chevrolet;Silverado 4WD;Pickup truck: Standard;53;8;A6;X;159;117;140;20;329
+2019;Chevrolet;Silverado 4WD FFV;Pickup truck: Standard;53;8;A6;X;161;125;144;20;339
+2019;Chevrolet;Silverado 4WD FFV;Pickup truck: Standard;53;8;A6;E;220;161;193;15;322
+2019;Chevrolet;Silverado 4WD Trail Boss;Pickup truck: Standard;53;8;A6;X;165;130;149;19;350
+2019;Chevrolet;Silverado 4WD;Pickup truck: Standard;53;8;A8;X;149;108;131;22;306
+2019;Chevrolet;Silverado 4WD Trail Boss;Pickup truck: Standard;53;8;A8;X;153;118;137;21;320
+2019;Chevrolet;Silverado 4WD;Pickup truck: Standard;62;8;A10;Z;150;120;137;21;321
+2019;Chevrolet;Silverado LD;Pickup truck: Standard;53;8;A6;X;156;109;135;21;317
+2019;Chevrolet;Silverado LD 4WD;Pickup truck: Standard;53;8;A6;X;158;114;138;20;325
+2019;Chevrolet;Spark;Subcompact;14;4;AV;X;79;62;71;40;167
+2019;Chevrolet;Spark;Subcompact;14;4;M5;X;80;62;72;39;170
+2019;Chevrolet;Suburban;SUV: Standard;53;8;A6;X;157;105;134;21;314
+2019;Chevrolet;Suburban FFV;SUV: Standard;53;8;A6;X;157;105;134;21;314
+2019;Chevrolet;Suburban FFV;SUV: Standard;53;8;A6;E;212;139;179;16;298
+2019;Chevrolet;Suburban 4WD;SUV: Standard;53;8;A6;X;168;113;143;20;336
+2019;Chevrolet;Suburban 4WD FFV;SUV: Standard;53;8;A6;X;168;113;143;20;336
+2019;Chevrolet;Suburban 4WD FFV;SUV: Standard;53;8;A6;E;222;152;190;15;317
+2019;Chevrolet;Suburban 4WD;SUV: Standard;62;8;A10;Z;171;113;145;19;340
+2019;Chevrolet;Tahoe;SUV: Standard;53;8;A6;X;157;105;134;21;314
+2019;Chevrolet;Tahoe FFV;SUV: Standard;53;8;A6;X;157;105;134;21;314
+2019;Chevrolet;Tahoe FFV;SUV: Standard;53;8;A6;E;212;139;179;16;298
+2019;Chevrolet;Tahoe 4WD;SUV: Standard;53;8;A6;X;158;111;137;21;321
+2019;Chevrolet;Tahoe 4WD FFV;SUV: Standard;53;8;A6;X;158;111;137;21;321
+2019;Chevrolet;Tahoe 4WD FFV;SUV: Standard;53;8;A6;E;217;143;184;15;305
+2019;Chevrolet;Tahoe 4WD;SUV: Standard;62;8;A10;Z;164;107;138;20;325
+2019;Chevrolet;Traverse;SUV: Standard;36;6;A9;X;130;88;111;25;261
+2019;Chevrolet;Traverse AWD;SUV: Standard;36;6;A9;X;137;95;118;24;277
+2019;Chevrolet;Trax;SUV: Small;14;4;AS6;X;91;76;84;34;196
+2019;Chevrolet;Trax;SUV: Small;14;4;M6;X;94;69;83;34;194
+2019;Chevrolet;Trax 4WD;SUV: Small;14;4;AS6;X;99;81;91;31;214
+2019;Chrysler;300;Full-size;36;6;A8;X;124;78;103;27;242
+2019;Chrysler;300 FFV;Full-size;36;6;A8;X;124;78;103;27;242
+2019;Chrysler;300 FFV;Full-size;36;6;A8;E;171;106;142;20;234
+2019;Chrysler;300;Full-size;57;8;A8;X;147;94;123;23;289
+2019;Chrysler;300 AWD;Full-size;36;6;A8;X;128;87;110;26;258
+2019;Chrysler;300 AWD FFV;Full-size;36;6;A8;X;128;87;110;26;258
+2019;Chrysler;300 AWD FFV;Full-size;36;6;A8;E;176;120;150;19;248
+2019;Chrysler;Pacifica;Minivan;36;6;A9;X;129;84;109;26;259
+2019;Chrysler;Pacifica (Stop-Start);Minivan;36;6;A9;X;124;84;106;27;249
+2019;Dodge;Challenger;Mid-size;36;6;A8;X;124;78;103;27;242
+2019;Dodge;Challenger;Mid-size;57;8;M6;Z;156;101;131;22;307
+2019;Dodge;Challenger;Mid-size;64;8;M6;Z;167;104;139;20;325
+2019;Dodge;Challenger (MDS);Mid-size;57;8;A8;X;147;94;123;23;289
+2019;Dodge;Challenger (MDS);Mid-size;64;8;A8;Z;158;96;130;22;304
+2019;Dodge;Challenger GT AWD;Mid-size;36;6;A8;X;128;87;110;26;258
+2019;Dodge;Challenger SRT Hellcat;Mid-size;62;8;A8;Z;176;107;145;19;339
+2019;Dodge;Challenger SRT Hellcat;Mid-size;62;8;M6;Z;181;114;151;19;352
+2019;Dodge;Challenger SRT Hellcat Redeye;Mid-size;62;8;A8;Z;176;107;145;19;339
+2019;Dodge;Charger;Full-size;36;6;A5;X;137;90;116;24;271
+2019;Dodge;Charger FFV;Full-size;36;6;A5;X;137;90;116;24;271
+2019;Dodge;Charger FFV;Full-size;36;6;A5;E;189;127;161;18;268
+2019;Dodge;Charger;Full-size;36;6;A8;X;124;78;103;27;242
+2019;Dodge;Charger FFV;Full-size;36;6;A8;X;124;78;103;27;242
+2019;Dodge;Charger FFV;Full-size;36;6;A8;E;171;106;142;20;234
+2019;Dodge;Charger (MDS);Full-size;57;8;A5;X;156;97;129;22;302
+2019;Dodge;Charger (MDS);Full-size;57;8;A8;X;147;94;123;23;289
+2019;Dodge;Charger (MDS);Full-size;64;8;A8;Z;158;96;130;22;304
+2019;Dodge;Charger AWD;Full-size;36;6;A8;X;128;87;110;26;258
+2019;Dodge;Charger AWD FFV;Full-size;36;6;A8;X;128;87;110;26;258
+2019;Dodge;Charger AWD FFV;Full-size;36;6;A8;E;176;120;150;19;248
+2019;Dodge;Charger AWD (MDS);Full-size;57;8;A5;X;160;101;133;21;312
+2019;Dodge;Charger SRT Hellcat;Full-size;62;8;A8;Z;176;107;145;19;339
+2019;Dodge;Durango AWD;SUV: Standard;36;6;A8;X;127;96;113;25;265
+2019;Dodge;Durango AWD;SUV: Standard;57;8;A8;X;167;109;141;20;331
+2019;Dodge;Durango AWD SRT;SUV: Standard;64;8;A8;Z;183;122;156;18;363
+2019;Dodge;Grand Caravan FFV;Minivan;36;6;A6;X;137;94;118;24;276
+2019;Dodge;Grand Caravan FFV;Minivan;36;6;A6;E;194;133;167;17;274
+2019;Dodge;Journey;SUV: Small;24;4;A4;X;127;92;111;25;261
+2019;Dodge;Journey FFV;SUV: Small;36;6;A6;X;142;95;121;23;284
+2019;Dodge;Journey FFV;SUV: Small;36;6;A6;E;191;132;164;17;274
+2019;Dodge;Journey AWD;SUV: Small;36;6;A6;X;145;100;124;23;292
+2019;FIAT;124 Spider;Two-seater;14;4;A6;X;93;65;80;35;187
+2019;FIAT;124 Spider;Two-seater;14;4;M6;X;90;67;79;36;185
+2019;FIAT;500;Minicompact;14;4;A6;X;97;74;87;32;203
+2019;FIAT;500;Minicompact;14;4;M5;X;85;71;79;36;186
+2019;FIAT;500L;Station wagon: Small;14;4;A6;X;107;79;94;30;221
+2019;FIAT;500X AWD;SUV: Small;13;4;A9;X;100;79;91;31;213
+2019;Ford;EcoSport;SUV: Small;10;3;AS6;X;86;81;84;34;196
+2019;Ford;EcoSport AWD;SUV: Small;20;4;AS6;X;102;80;93;30;218
+2019;Ford;Edge;SUV: Small;20;4;AS8;X;109;80;96;29;224
+2019;Ford;Edge AWD;SUV: Small;20;4;AS8;X;114;83;100;28;233
+2019;Ford;Edge AWD;SUV: Small;27;6;AS8;X;126;92;110;26;259
+2019;Ford;Escape;SUV: Small;15;4;AS6;X;102;78;91;31;214
+2019;Ford;Escape FFV;SUV: Small;25;4;AS6;X;110;80;96;29;226
+2019;Ford;Escape FFV;SUV: Small;25;4;AS6;E;150;108;131;22;218
+2019;Ford;Escape AWD;SUV: Small;15;4;AS6;X;112;84;99;29;232
+2019;Ford;Escape AWD;SUV: Small;20;4;AS6;X;115;87;102;28;239
+2019;Ford;Expedition 4X4;SUV: Standard;35;6;AS10;X;141;106;125;23;293
+2019;Ford;Expedition MAX 4X4;SUV: Standard;35;6;AS10;X;147;112;131;22;307
+2019;Ford;Explorer AWD;SUV: Standard;23;4;AS6;X;131;92;114;25;267
+2019;Ford;Explorer AWD;SUV: Standard;35;6;AS6;X;152;109;132;21;311
+2019;Ford;Explorer FFV AWD;SUV: Standard;35;6;AS6;X;145;106;127;22;299
+2019;Ford;Explorer FFV AWD;SUV: Standard;35;6;AS6;E;198;143;173;16;288
+2019;Ford;F-150;Pickup truck: Standard;27;6;AS10;X;120;90;106;27;249
+2019;Ford;F-150 (LT Tire Pkg);Pickup truck: Standard;27;6;AS10;X;124;94;111;25;260
+2019;Ford;F-150 (Payload Pkg);Pickup truck: Standard;27;6;AS10;X;124;94;111;25;260
+2019;Ford;F-150;Pickup truck: Standard;30;6;AS10;D;108;80;95;30;256
+2019;Ford;F-150 (LT Tire Pkg);Pickup truck: Standard;30;6;AS10;D;108;84;97;29;260
+2019;Ford;F-150 FFV;Pickup truck: Standard;33;6;AS6;X;122;93;109;26;256
+2019;Ford;F-150 FFV;Pickup truck: Standard;33;6;AS6;E;167;126;149;19;247
+2019;Ford;F-150 FFV (LT Tire Pkg);Pickup truck: Standard;33;6;AS6;X;124;98;112;25;263
+2019;Ford;F-150 FFV (LT Tire Pkg);Pickup truck: Standard;33;6;AS6;E;167;126;149;19;247
+2019;Ford;F-150;Pickup truck: Standard;35;6;AS10;X;135;101;120;24;281
+2019;Ford;F-150 (LT Tire Pkg);Pickup truck: Standard;35;6;AS10;X;138;107;124;23;291
+2019;Ford;F-150 (Payload Pkg);Pickup truck: Standard;35;6;AS10;X;139;112;127;22;298
+2019;Ford;F-150 FFV;Pickup truck: Standard;50;8;AS10;X;139;102;122;23;287
+2019;Ford;F-150 FFV;Pickup truck: Standard;50;8;AS10;E;203;140;174;16;290
+2019;Ford;F-150 FFV (LT Tire Pkg);Pickup truck: Standard;50;8;AS10;X;147;112;131;22;308
+2019;Ford;F-150 FFV (LT Tire Pkg);Pickup truck: Standard;50;8;AS10;E;203;140;175;16;290
+2019;Ford;F-150 FFV (Payload Pkg);Pickup truck: Standard;50;8;AS10;X;156;118;139;20;326
+2019;Ford;F-150 FFV (Payload Pkg);Pickup truck: Standard;50;8;AS10;E;204;140;175;16;291
+2019;Ford;F-150 4X4;Pickup truck: Standard;27;6;AS10;X;127;98;114;25;268
+2019;Ford;F-150 4X4 (LT Tire Pkg);Pickup truck: Standard;27;6;AS10;X;131;102;118;24;277
+2019;Ford;F-150 4X4 (Payload Pkg);Pickup truck: Standard;27;6;AS10;X;131;102;118;24;277
+2019;Ford;F-150 4X4;Pickup truck: Standard;30;6;AS10;D;118;93;107;26;287
+2019;Ford;F-150 4X4 (LT Tire Pkg);Pickup truck: Standard;30;6;AS10;D;118;93;107;26;287
+2019;Ford;F-150 4X4 XL/XLT;Pickup truck: Standard;30;6;AS10;D;112;83;99;29;266
+2019;Ford;F-150 FFV 4X4;Pickup truck: Standard;33;6;AS6;X;128;102;116;24;273
+2019;Ford;F-150 FFV 4X4;Pickup truck: Standard;33;6;AS6;E;175;138;158;18;263
+2019;Ford;F-150 FFV 4X4 (LT Tire Pkg);Pickup truck: Standard;33;6;AS6;X;138;107;124;23;291
+2019;Ford;F-150 FFV 4X4 (LT Tire Pkg);Pickup truck: Standard;33;6;AS6;E;175;137;158;18;263
+2019;Ford;F-150 4X4;Pickup truck: Standard;35;6;AS10;X;143;105;125;23;295
+2019;Ford;F-150 4X4 (LT Tire Pkg);Pickup truck: Standard;35;6;AS10;X;147;107;129;22;303
+2019;Ford;F-150 4X4 (Payload Pkg);Pickup truck: Standard;35;6;AS10;X;147;112;131;22;308
+2019;Ford;F-150 4X4 Limited;Pickup truck: Standard;35;6;AS10;X;138;112;126;22;296
+2019;Ford;F-150 FFV 4X4;Pickup truck: Standard;50;8;AS10;X;151;110;133;21;312
+2019;Ford;F-150 FFV 4X4;Pickup truck: Standard;50;8;AS10;E;200;156;180;16;300
+2019;Ford;F-150 FFV 4X4 (LT Tire Pkg);Pickup truck: Standard;50;8;AS10;X;157;118;139;20;326
+2019;Ford;F-150 FFV 4X4 (LT Tire Pkg);Pickup truck: Standard;50;8;AS10;E;200;156;180;16;300
+2019;Ford;F-150 FFV 4X4 (Payload Pkg);Pickup truck: Standard;50;8;AS10;X;168;124;148;19;347
+2019;Ford;F-150 FFV 4X4 (Payload Pkg);Pickup truck: Standard;50;8;AS10;E;213;172;195;14;323
+2019;Ford;F-150 Raptor 4X4;Pickup truck: Standard;35;6;AS10;X;153;131;143;20;336
+2019;Ford;Flex;SUV: Standard;35;6;AS6;X;147;102;127;22;298
+2019;Ford;Flex AWD;SUV: Standard;35;6;AS6;X;147;107;129;22;303
+2019;Ford;Flex AWD GTDI;SUV: Standard;35;6;AS6;X;157;112;137;21;322
+2019;Ford;Fiesta;Subcompact;16;4;AM6;X;86;64;76;37;178
+2019;Ford;Fiesta;Subcompact;16;4;M5;X;88;68;79;36;184
+2019;Ford;Fiesta ST;Subcompact;16;4;M6;X;92;74;84;34;196
+2019;Ford;Fusion;Mid-size;15;4;AS6;X;100;70;87;32;204
+2019;Ford;Fusion Hybrid;Mid-size;20;4;AV;X;55;56;56;50;131
+2019;Ford;GT;Two-seater;35;6;AM7;Z;204;131;171;17;402
+2019;Ford;Mustang;Subcompact;23;4;AS10;X;112;73;94;30;221
+2019;Ford;Mustang (Performance Pkg);Subcompact;23;4;AS10;X;118;84;103;27;242
+2019;Ford;Mustang;Subcompact;23;4;M6;X;112;79;97;29;227
+2019;Ford;Mustang (Performance Pkg);Subcompact;23;4;M6;X;118;87;104;27;244
+2019;Ford;Mustang;Subcompact;50;8;AS10;X;150;91;123;23;289
+2019;Ford;Mustang;Subcompact;50;8;M6;X;161;99;133;21;311
+2019;Ford;Mustang Bullitt;Subcompact;50;8;M6;X;161;99;133;21;311
+2019;Ford;Mustang Convertible;Subcompact;23;4;AS10;X;119;84;104;27;243
+2019;Ford;Mustang Convertible;Subcompact;23;4;M6;X;118;84;103;27;241
+2019;Ford;Mustang Convertible;Subcompact;50;8;AS10;X;154;97;129;22;302
+2019;Ford;Ranger 4WD;Pickup truck: Standard;23;4;AS10;X;118;98;109;26;256
+2019;Ford;Shelby GT350 Mustang;Subcompact;52;8;M6;Z;172;113;146;19;341
+2019;Ford;T-150 Wagon;Van: Passenger;35;6;AS6;X;162;128;147;19;346
+2019;Ford;T-150 Wagon;Van: Passenger;37;6;AS6;X;169;131;152;19;355
+2019;Ford;Taurus FFV;Full-size;35;6;AS6;X;135;90;115;25;270
+2019;Ford;Taurus FFV;Full-size;35;6;AS6;E;178;121;152;19;254
+2019;Ford;Taurus AWD;Full-size;35;6;AS6;X;146;100;125;23;294
+2019;Ford;Taurus FFV AWD;Full-size;35;6;AS6;X;140;99;124;23;291
+2019;Ford;Taurus FFV AWD;Full-size;35;6;AS6;E;185;130;160;18;267
+2019;Ford;Transit Connect Van;Special purpose vehicle;20;4;AS8;X;98;88;93;30;219
+2019;Ford;Transit Connect Van FFV;Special purpose vehicle;20;4;AS8;X;98;88;93;30;219
+2019;Ford;Transit Connect Van FFV;Special purpose vehicle;20;4;AS8;E;133;118;126;22;209
+2019;Ford;Transit Connect Van;Special purpose vehicle;25;4;AS6;X;120;88;106;27;247
+2019;Ford;Transit Connect Wagon LWB;Special purpose vehicle;20;4;AS8;X;99;82;92;31;214
+2019;Ford;Transit Connect Wagon LWB FFV;Special purpose vehicle;20;4;AS8;X;99;82;92;31;214
+2019;Ford;Transit Connect Wagon LWB FFV;Special purpose vehicle;20;4;AS8;E;137;111;125;23;208
+2019;Ford;Transit Connect Wagon LWB;Special purpose vehicle;25;4;AS6;X;121;90;107;26;251
+2019;Genesis;G70;Compact;20;4;M6;Z;128;85;109;26;255
+2019;Genesis;G70 AWD;Compact;20;4;AS8;Z;115;87;103;27;241
+2019;Genesis;G70 AWD;Compact;33;6;AS8;Z;141;95;120;24;284
+2019;Genesis;G80 AWD;Full-size;33;6;AS8;Z;138;97;119;24;282
+2019;Genesis;G80 AWD;Full-size;38;6;AS8;X;134;96;117;24;276
+2019;Genesis;G80 AWD;Full-size;50;8;AS8;Z;156;104;132;21;312
+2019;Genesis;G90 AWD;Full-size;33;6;AS8;Z;137;97;119;24;279
+2019;Genesis;G90 AWD;Full-size;50;8;AS8;Z;152;102;130;22;306
+2019;GMC;Acadia;SUV: Standard;25;4;A6;X;111;92;102;28;237
+2019;GMC;Acadia;SUV: Standard;36;6;A6;X;131;94;114;25;268
+2019;GMC;Acadia AWD;SUV: Standard;25;4;A6;X;113;94;105;27;248
+2019;GMC;Acadia AWD;SUV: Standard;36;6;A6;X;135;95;117;24;275
+2019;GMC;Canyon;Pickup truck: Small;25;4;A6;X;121;92;108;26;253
+2019;GMC;Canyon;Pickup truck: Small;25;4;M6;X;119;92;107;26;251
+2019;GMC;Canyon;Pickup truck: Small;28;4;A6;D;118;79;101;28;270
+2019;GMC;Canyon;Pickup truck: Small;36;6;A8;X;134;96;117;24;274
+2019;GMC;Canyon 4WD;Pickup truck: Small;25;4;A6;X;127;98;114;25;267
+2019;GMC;Canyon 4WD;Pickup truck: Small;28;4;A6;D;122;84;105;27;283
+2019;GMC;Canyon 4WD;Pickup truck: Small;36;6;A8;X;140;99;122;23;286
+2019;GMC;Sierra;Pickup truck: Standard;27;4;A8;X;119;103;111;25;261
+2019;GMC;Sierra;Pickup truck: Standard;43;6;A6;X;151;115;135;21;317
+2019;GMC;Sierra;Pickup truck: Standard;53;8;A6;X;159;114;139;20;326
+2019;GMC;Sierra FFV;Pickup truck: Standard;53;8;A6;X;157;119;140;20;329
+2019;GMC;Sierra FFV;Pickup truck: Standard;53;8;A6;E;211;150;184;15;306
+2019;GMC;Sierra;Pickup truck: Standard;53;8;A8;X;143;104;125;23;294
+2019;GMC;Sierra 4WD;Pickup truck: Standard;27;4;A8;X;126;109;118;24;277
+2019;GMC;Sierra 4WD;Pickup truck: Standard;43;6;A6;X;158;119;140;20;329
+2019;GMC;Sierra 4WD;Pickup truck: Standard;53;8;A6;X;159;117;140;20;330
+2019;GMC;Sierra 4WD FFV;Pickup truck: Standard;53;8;A6;X;160;125;144;20;339
+2019;GMC;Sierra 4WD FFV;Pickup truck: Standard;53;8;A6;E;220;161;194;15;323
+2019;GMC;Sierra 4WD;Pickup truck: Standard;53;8;A8;X;153;112;135;21;316
+2019;GMC;Sierra 4WD AT4;Pickup truck: Standard;53;8;A8;X;153;118;137;21;320
+2019;GMC;Sierra 4WD;Pickup truck: Standard;62;8;A10;Z;155;119;139;20;326
+2019;GMC;Sierra 4WD AT4;Pickup truck: Standard;62;8;A10;Z;157;124;142;20;332
+2019;GMC;Sierra LTD;Pickup truck: Standard;53;8;A6;X;156;109;135;21;317
+2019;GMC;Sierra LTD 4WD;Pickup truck: Standard;53;8;A6;X;158;114;138;20;325
+2019;GMC;Terrain;SUV: Small;15;4;A9;X;92;79;86;33;201
+2019;GMC;Terrain;SUV: Small;16;4;A6;D;85;60;74;38;199
+2019;GMC;Terrain AWD;SUV: Small;15;4;A9;X;96;83;90;31;210
+2019;GMC;Terrain AWD;SUV: Small;16;4;A6;D;85;61;74;38;199
+2019;GMC;Terrain AWD;SUV: Small;20;4;A9;Z;112;90;102;28;239
+2019;GMC;Yukon;SUV: Standard;53;8;A6;X;157;105;134;21;314
+2019;GMC;Yukon FFV;SUV: Standard;53;8;A6;X;157;105;134;21;314
+2019;GMC;Yukon FFV;SUV: Standard;53;8;A6;E;212;139;179;16;298
+2019;GMC;Yukon 4WD;SUV: Standard;53;8;A6;X;158;111;137;21;321
+2019;GMC;Yukon 4WD FFV;SUV: Standard;53;8;A6;X;158;111;137;21;321
+2019;GMC;Yukon 4WD FFV;SUV: Standard;53;8;A6;E;217;143;184;15;305
+2019;GMC;Yukon 4WD;SUV: Standard;62;8;A10;Z;164;107;138;20;325
+2019;GMC;Yukon XL;SUV: Standard;53;8;A6;X;157;105;134;21;314
+2019;GMC;Yukon XL FFV;SUV: Standard;53;8;A6;X;157;105;134;21;314
+2019;GMC;Yukon XL FFV;SUV: Standard;53;8;A6;E;212;139;179;16;298
+2019;GMC;Yukon XL 4WD;SUV: Standard;53;8;A6;X;168;113;143;20;336
+2019;GMC;Yukon XL 4WD FFV;SUV: Standard;53;8;A6;X;168;113;143;20;336
+2019;GMC;Yukon XL 4WD FFV;SUV: Standard;53;8;A6;E;222;152;190;15;317
+2019;GMC;Yukon XL 4WD;SUV: Standard;62;8;A10;Z;171;113;145;19;340
+2019;Honda;Accord;Full-size;15;4;AV;X;79;63;72;39;168
+2019;Honda;Accord;Full-size;15;4;AV7;X;82;68;76;37;177
+2019;Honda;Accord;Full-size;15;4;M6;X;89;67;79;36;185
+2019;Honda;Accord;Full-size;20;4;M6;X;107;73;92;31;214
+2019;Honda;Accord Sport/Touring;Mid-size;20;4;AS10;X;104;74;91;31;211
+2019;Honda;Accord Hybrid;Full-size;20;4;AV;X;50;50;50;56;117
+2019;Honda;Civic Coupe;Compact;15;4;AV7;X;78;64;72;39;167
+2019;Honda;Civic Coupe;Compact;20;4;AV;X;78;61;71;40;164
+2019;Honda;Civic Coupe;Compact;20;4;AV7;X;83;66;75;38;176
+2019;Honda;Civic Coupe;Compact;20;4;M6;X;93;67;81;35;189
+2019;Honda;Civic Coupe Si;Compact;15;4;M6;Z;84;62;74;38;173
+2019;Honda;Civic Hatchback;Full-size;15;4;AV;X;77;60;69;41;162
+2019;Honda;Civic Hatchback;Full-size;15;4;AV7;X;79;66;73;39;170
+2019;Honda;Civic Hatchback;Full-size;15;4;M6;X;80;62;72;39;167
+2019;Honda;Civic Hatchback Sport;Full-size;15;4;AV7;Z;79;66;73;39;170
+2019;Honda;Civic Hatchback Sport;Full-size;15;4;M6;Z;80;62;72;39;167
+2019;Honda;Civic Sedan;Mid-size;15;4;AV7;X;78;62;71;40;165
+2019;Honda;Civic Sedan;Mid-size;20;4;AV;X;79;61;71;40;167
+2019;Honda;Civic Sedan;Mid-size;20;4;AV7;X;82;65;74;38;172
+2019;Honda;Civic Sedan;Mid-size;20;4;M6;X;93;65;80;35;186
+2019;Honda;Civic Sedan Si;Mid-size;15;4;M6;Z;84;62;74;38;173
+2019;Honda;Civic Type R;Full-size;20;4;M6;Z;106;83;96;29;224
+2019;Honda;CR-V;SUV: Small;15;4;AV;X;84;70;78;36;181
+2019;Honda;CR-V AWD;SUV: Small;15;4;AV;X;87;72;80;35;188
+2019;Honda;Fit;Station wagon: Small;15;4;AV;X;70;59;65;43;151
+2019;Honda;Fit;Station wagon: Small;15;4;AV7;X;76;65;70;40;166
+2019;Honda;Fit;Station wagon: Small;15;4;M6;X;81;66;74;38;174
+2019;Honda;HR-V;Station wagon: Small;18;4;AV;X;84;70;78;36;181
+2019;Honda;HR-V AWD;Station wagon: Small;18;4;AV;X;88;75;82;34;193
+2019;Honda;HR-V AWD;Station wagon: Small;18;4;AV7;X;91;77;85;33;199
+2019;Honda;Insight EX;Mid-size;15;4;AV;X;46;53;49;58;114
+2019;Honda;Insight Touring;Mid-size;15;4;AV;X;46;53;49;58;114
+2019;Honda;Odyssey;Minivan;35;6;AS9;X;126;84;107;26;252
+2019;Honda;Odyssey Touring;Minivan;35;6;AS10;X;122;85;106;27;247
+2019;Honda;Passport AWD;SUV: Small;35;6;A9;X;125;98;113;25;265
+2019;Honda;Pilot;SUV: Small;35;6;A6;X;124;87;107;26;250
+2019;Honda;Pilot AWD;SUV: Small;35;6;A6;X;130;93;113;25;266
+2019;Honda;Pilot AWD;SUV: Small;35;6;AS9;X;124;93;110;26;257
+2019;Honda;Ridgeline AWD;Pickup truck: Standard;35;6;A6;X;128;95;113;25;263
+2019;Hyundai;Accent;Compact;16;4;AS6;X;82;62;73;39;172
+2019;Hyundai;Accent;Compact;16;4;M6;X;82;63;73;39;173
+2019;Hyundai;Elantra;Mid-size;16;4;AM7;X;89;70;81;35;189
+2019;Hyundai;Elantra;Mid-size;16;4;M6;X;107;78;94;30;221
+2019;Hyundai;Elantra;Mid-size;20;4;AS6;X;83;64;74;38;174
+2019;Hyundai;Elantra;Mid-size;20;4;M6;X;92;65;80;35;188
+2019;Hyundai;Elantra GT;Full-size;16;4;AM7;X;97;74;86;33;205
+2019;Hyundai;Elantra GT;Full-size;16;4;M6;X;103;79;92;31;218
+2019;Hyundai;Elantra GT;Full-size;20;4;AS6;X;94;71;84;34;200
+2019;Hyundai;Elantra GT;Full-size;20;4;M6;X;98;74;87;32;207
+2019;Hyundai;IONIQ;Full-size;16;4;AM6;X;43;44;43;66;104
+2019;Hyundai;IONIQ Blue;Full-size;16;4;AM6;X;42;40;41;69;96
+2019;Hyundai;Kona;SUV: Small;20;4;AS6;X;86;70;79;36;186
+2019;Hyundai;Kona AWD;SUV: Small;16;4;AM7;X;90;80;86;33;201
+2019;Hyundai;Kona AWD;SUV: Small;20;4;AS6;X;92;78;86;33;202
+2019;Hyundai;Santa Fe;SUV: Small;24;4;AS8;X;108;80;96;29;225
+2019;Hyundai;Santa Fe AWD;SUV: Small;20;4;AS8;X;123;98;112;25;262
+2019;Hyundai;Santa Fe AWD;SUV: Small;24;4;AS8;X;112;87;101;28;237
+2019;Hyundai;Santa Fe XL;SUV: Small;33;6;AS6;X;132;94;115;25;268
+2019;Hyundai;Santa Fe XL AWD;SUV: Small;33;6;AS6;X;134;97;117;24;276
+2019;Hyundai;Santa Fe XL Ultimate AWD;SUV: Small;33;6;AS6;X;141;108;126;22;297
+2019;Hyundai;Sonata;Full-size;20;4;AS8;X;104;74;91;31;212
+2019;Hyundai;Sonata;Full-size;24;4;AS6;X;93;71;83;34;198
+2019;Hyundai;Sonata SE;Full-size;24;4;AS6;X;92;68;81;35;190
+2019;Hyundai;Sonata Hybrid;Mid-size;20;4;AM6;X;60;53;57;50;135
+2019;Hyundai;Sonata Hybrid SE;Mid-size;20;4;AM6;X;59;51;56;50;132
+2019;Hyundai;Tucson;SUV: Small;20;4;AS6;X;100;79;91;31;216
+2019;Hyundai;Tucson AWD;SUV: Small;20;4;AS6;X;108;92;101;28;239
+2019;Hyundai;Tucson AWD;SUV: Small;24;4;AS6;X;110;91;101;28;240
+2019;Hyundai;Veloster;Compact;20;4;AS6;X;91;71;82;34;193
+2019;Hyundai;Veloster;Compact;20;4;M6;X;94;71;84;34;198
+2019;Hyundai;Veloster N;Compact;20;4;M6;X;106;83;95;30;226
+2019;Hyundai;Veloster Turbo;Compact;16;4;AM7;X;85;69;78;36;184
+2019;Hyundai;Veloster Turbo;Compact;16;4;M6;X;94;70;83;34;197
+2019;Infiniti;Q50 AWD;Mid-size;20;4;AS7;Z;107;86;97;29;229
+2019;Infiniti;Q50 AWD;Mid-size;30;6;AS7;Z;124;87;108;26;253
+2019;Infiniti;Q50 AWD Red Sport;Mid-size;30;6;AS7;Z;125;93;111;25;261
+2019;Infiniti;Q60 AWD;Subcompact;20;4;AS7;Z;112;85;100;28;233
+2019;Infiniti;Q60 AWD;Subcompact;30;6;AS7;Z;123;87;107;26;251
+2019;Infiniti;Q60 AWD Red Sport;Subcompact;30;6;AS7;Z;125;92;110;26;259
+2019;Infiniti;Q70 AWD;Mid-size;37;6;AS7;Z;132;98;117;24;275
+2019;Infiniti;Q70 AWD;Mid-size;56;8;AS7;Z;149;102;128;22;301
+2019;Infiniti;QX50 AWD;SUV: Small;20;4;AV8;Z;100;78;90;31;211
+2019;Infiniti;QX60 AWD;SUV: Small;35;6;AV7;Z;125;90;109;26;257
+2019;Infiniti;QX80 4WD;SUV: Standard;56;8;AS7;Z;174;122;151;19;354
+2019;Jaguar;E-PACE P250;SUV: Small;20;4;AS9;Z;110;84;98;29;231
+2019;Jaguar;F-PACE 20d;SUV: Small;20;4;AS8;D;89;72;81;35;218
+2019;Jaguar;F-PACE 25t;SUV: Small;20;4;AS8;Z;107;88;99;29;227
+2019;Jaguar;F-PACE 35t;SUV: Small;30;6;AS8;Z;133;100;118;24;277
+2019;Jaguar;F-TYPE Convertible;Two-seater;20;4;AS8;Z;102;78;92;31;215
+2019;Jaguar;F-TYPE Convertible;Two-seater;30;6;AS8;Z;119;85;104;27;242
+2019;Jaguar;F-TYPE Convertible;Two-seater;30;6;M6;Z;149;98;126;22;296
+2019;Jaguar;F-TYPE Convertible R-Dynamic;Two-seater;30;6;AS8;Z;124;88;108;26;253
+2019;Jaguar;F-TYPE Convertible R-Dynamic;Two-seater;30;6;M6;Z;153;100;129;22;302
+2019;Jaguar;F-TYPE Convertible R-Dynamic AWD;Two-seater;30;6;AS8;Z;130;92;113;25;265
+2019;Jaguar;F-TYPE Coupe;Two-seater;20;4;AS8;Z;102;78;92;31;215
+2019;Jaguar;F-TYPE Coupe;Two-seater;30;6;AS8;Z;119;85;104;27;242
+2019;Jaguar;F-TYPE Coupe;Two-seater;30;6;M6;Z;149;98;126;22;296
+2019;Jaguar;F-TYPE Coupe R-Dynamic;Two-seater;30;6;AS8;Z;124;88;108;26;253
+2019;Jaguar;F-TYPE Coupe R-Dynamic;Two-seater;30;6;M6;Z;153;100;129;22;302
+2019;Jaguar;F-TYPE Coupe R-Dynamic AWD;Two-seater;30;6;AS8;Z;130;92;113;25;265
+2019;Jaguar;F-TYPE R AWD Convertible;Two-seater;50;8;AS8;Z;156;104;133;21;311
+2019;Jaguar;F-TYPE R AWD Coupe;Two-seater;50;8;AS8;Z;156;104;133;21;311
+2019;Jaguar;XE 20d AWD;Compact;20;4;AS8;D;78;58;69;41;186
+2019;Jaguar;XE 25t AWD;Compact;20;4;AS8;Z;98;69;85;33;200
+2019;Jaguar;XE 35t AWD;Compact;30;6;AS8;Z;118;82;102;28;238
+2019;Jaguar;XF 20d AWD;Mid-size;20;4;AS8;D;78;58;69;41;186
+2019;Jaguar;XF 25t AWD;Mid-size;20;4;AS8;Z;101;72;88;32;207
+2019;Jaguar;XF 35t AWD;Mid-size;30;6;AS8;Z;120;84;104;27;243
+2019;Jaguar;XJ R-Sport AWD;Full-size;30;6;AS8;Z;140;90;118;24;276
+2019;Jaguar;XJL Portfolio AWD;Full-size;30;6;AS8;Z;140;94;119;24;280
+2019;Jaguar;XJR LWB;Full-size;50;8;AS8;Z;158;103;133;21;313
+2019;Jeep;Cherokee;SUV: Small;20;4;A9;X;104;76;91;31;214
+2019;Jeep;Cherokee;SUV: Small;24;4;A9;X;108;76;93;30;219
+2019;Jeep;Cherokee;SUV: Small;32;6;A9;X;119;82;102;28;240
+2019;Jeep;Cherokee 4X4 Active Drive I;SUV: Small;20;4;A9;X;112;80;98;29;229
+2019;Jeep;Cherokee 4X4 Active Drive I;SUV: Small;24;4;A9;X;112;80;98;29;230
+2019;Jeep;Cherokee 4X4 Active Drive I;SUV: Small;32;6;A9;X;122;86;106;27;249
+2019;Jeep;Cherokee 4X4 Active Drive II;SUV: Small;20;4;A9;X;115;86;102;28;240
+2019;Jeep;Cherokee 4X4 Active Drive II;SUV: Small;32;6;A9;X;128;90;111;25;259
+2019;Jeep;Cherokee 4X4 Active Drive Lock;SUV: Small;20;4;A9;X;118;92;106;27;249
+2019;Jeep;Cherokee 4X4 Active Drive Lock;SUV: Small;32;6;A9;X;129;99;116;24;269
+2019;Jeep;Compass;SUV: Small;24;4;A6;X;106;76;93;30;218
+2019;Jeep;Compass;SUV: Small;24;4;M6;X;104;73;90;31;211
+2019;Jeep;Compass 4X4;SUV: Small;24;4;A9;X;108;78;95;30;222
+2019;Jeep;Compass 4X4;SUV: Small;24;4;M6;X;108;76;94;30;221
+2019;Jeep;Grand Cherokee 4X4;SUV: Standard;36;6;A8;X;127;96;113;25;265
+2019;Jeep;Grand Cherokee 4X4;SUV: Standard;57;8;A8;X;167;109;141;20;331
+2019;Jeep;Grand Cherokee 4X4 EcoDiesel;SUV: Standard;30;6;A8;D;112;85;100;28;268
+2019;Jeep;Grand Cherokee 4X4 SRT;SUV: Standard;64;8;A8;Z;183;126;157;18;368
+2019;Jeep;Grand Cherokee 4X4 Trackhawk;SUV: Standard;62;8;A8;Z;209;138;177;16;413
+2019;Jeep;Renegade;SUV: Small;13;4;A9;X;98;74;87;32;204
+2019;Jeep;Renegade;SUV: Small;24;4;A9;X;108;78;95;30;222
+2019;Jeep;Renegade 4X4;SUV: Small;13;4;A9;X;101;81;92;31;216
+2019;Jeep;Renegade 4X4;SUV: Small;24;4;A9;X;112;82;98;29;230
+2019;Jeep;Renegade 4X4 Trailhawk;SUV: Small;13;4;A9;X;108;87;99;29;230
+2019;Jeep;Wrangler JL 4X4;SUV: Small;20;4;A8;X;105;94;100;28;233
+2019;Jeep;Wrangler JL 4X4;SUV: Small;36;6;A8;X;128;104;118;24;274
+2019;Jeep;Wrangler JL 4X4;SUV: Small;36;6;M6;X;137;96;118;24;277
+2019;Jeep;Wrangler JL Unlimited 4X4;SUV: Small;20;4;A8;X;109;100;105;27;245
+2019;Jeep;Wrangler JL Unlimited 4X4;SUV: Small;36;6;A8;X;129;102;117;24;275
+2019;Jeep;Wrangler JL Unlimited 4X4;SUV: Small;36;6;M6;X;138;101;122;23;285
+2019;Kia;Cadenza;Full-size;33;6;AS8;X;116;85;102;28;238
+2019;Kia;Forte;Mid-size;20;4;AV;X;77;59;69;41;164
+2019;Kia;Forte;Mid-size;20;4;M6;X;86;64;76;37;180
+2019;Kia;Niro;Station wagon: Small;16;4;AM6;X;46;51;48;59;114
+2019;Kia;Niro FE;Station wagon: Small;16;4;AM6;X;45;48;47;60;110
+2019;Kia;Niro Touring;Station wagon: Small;16;4;AM6;X;51;58;54;52;129
+2019;Kia;Optima;Full-size;20;4;AS6;X;112;79;97;29;230
+2019;Kia;Optima;Full-size;24;4;AS6;X;95;71;84;34;199
+2019;Kia;Optima Hybrid;Mid-size;20;4;AM6;X;61;52;57;50;133
+2019;Kia;Rio;Compact;16;4;AS6;X;85;64;75;38;177
+2019;Kia;Rio;Compact;16;4;M6;X;83;64;75;38;175
+2019;Kia;Sedona;Minivan;33;6;AS8;X;127;100;115;25;272
+2019;Kia;Sorento;SUV: Small;24;4;AS6;X;107;82;96;29;225
+2019;Kia;Sorento AWD;SUV: Small;24;4;AS6;X;112;90;102;28;242
+2019;Kia;Sorento AWD;SUV: Small;33;6;AS8;X;125;97;112;25;265
+2019;Kia;Soul;Station wagon: Small;16;4;AM7;X;91;77;85;33;199
+2019;Kia;Soul;Station wagon: Small;16;4;AS6;X;90;76;84;34;198
+2019;Kia;Soul;Station wagon: Small;20;4;AS6;X;95;78;87;32;206
+2019;Kia;Sportage;SUV: Small;24;4;AS6;X;103;78;92;31;218
+2019;Kia;Sportage AWD;SUV: Small;20;4;AS6;X;119;102;111;25;263
+2019;Kia;Sportage AWD;SUV: Small;24;4;AS6;X;113;95;105;27;247
+2019;Kia;Stinger AWD;Mid-size;20;4;AS8;Z;111;81;97;29;229
+2019;Kia;Stinger AWD;Mid-size;33;6;AS8;Z;136;96;118;24;279
+2019;Lamborghini;Aventador Coupe;Two-seater;65;12;AM7;Z;263;156;215;13;487
+2019;Lamborghini;Aventador Roadster;Two-seater;65;12;AM7;Z;266;158;217;13;493
+2019;Lamborghini;Huracan Coupe;Two-seater;52;10;AM7;Z;181;132;159;18;366
+2019;Lamborghini;Huracan Coupe AWD;Two-seater;52;10;AM7;Z;179;130;157;18;370
+2019;Lamborghini;Huracan Spyder;Two-seater;52;10;AM7;Z;181;132;159;18;366
+2019;Lamborghini;Huracan Spyder AWD;Two-seater;52;10;AM7;Z;179;130;157;18;370
+2019;Lamborghini;Huracan Performante Coupe;Two-seater;52;10;AM7;Z;179;130;157;18;370
+2019;Lamborghini;Huracan Performante Spyder;Two-seater;52;10;AM7;Z;179;130;157;18;370
+2019;Lamborghini;Urus;SUV: Standard;40;8;AS8;Z;192;141;169;17;384
+2019;Land Rover;Discovery;SUV: Standard;30;6;AS8;Z;148;114;133;21;311
+2019;Land Rover;Discovery TD6 Diesel;SUV: Standard;30;6;AS8;D;113;92;104;27;279
+2019;Land Rover;Discovery Sport;SUV: Small;20;4;AS9;Z;114;93;105;27;246
+2019;Land Rover;Range Rover 3.0;SUV: Standard;30;6;AS8;Z;141;103;124;23;291
+2019;Land Rover;Range Rover TD6 Diesel;SUV: Standard;30;6;AS8;D;107;83;96;29;256
+2019;Land Rover;Range Rover 5.0 Supercharged;SUV: Standard;50;8;AS8;Z;144;113;130;22;305
+2019;Land Rover;Range Rover SVAutobiography LWB;SUV: Standard;50;8;AS8;Z;179;127;155;18;365
+2019;Land Rover;Range Rover Sport 3.0;SUV: Standard;30;6;AS8;Z;141;103;124;23;291
+2019;Land Rover;Range Rover Sport TD6 Diesel;SUV: Standard;30;6;AS8;D;107;83;96;29;256
+2019;Land Rover;Range Rover Sport Supercharged;SUV: Standard;50;8;AS8;Z;141;107;126;22;294
+2019;Land Rover;Range Rover Evoque;SUV: Small;20;4;AS9;Z;109;80;96;29;225
+2019;Land Rover;Range Rover Evoque Convertible;SUV: Small;20;4;AS9;Z;112;82;98;29;231
+2019;Land Rover;Range Rover Velar D180;SUV: Small;20;4;AS8;D;92;78;85;33;229
+2019;Land Rover;Range Rover Velar P300;SUV: Small;20;4;AS8;Z;117;92;106;27;248
+2019;Land Rover;Range Rover Velar P380;SUV: Small;30;6;AS8;Z;130;100;116;24;273
+2019;Lexus;ES 300h;Mid-size;25;4;AV6;X;55;52;53;53;124
+2019;Lexus;ES 350;Mid-size;35;6;AS8;X;106;72;91;31;211
+2019;Lexus;ES 350 F SPORT;Mid-size;35;6;AS8;X;109;75;94;30;219
+2019;Lexus;GS 350 AWD;Mid-size;35;6;AS6;Z;123;91;109;26;254
+2019;Lexus;GS F;Compact;50;8;AS8;Z;149;97;125;23;293
+2019;Lexus;GX 460;SUV: Standard;46;8;AS6;Z;160;129;146;19;341
+2019;Lexus;IS 300;Compact;20;4;AS8;Z;110;76;95;30;220
+2019;Lexus;IS 300 AWD;Compact;35;6;AS6;Z;123;91;109;26;254
+2019;Lexus;IS 350 AWD;Compact;35;6;AS6;Z;123;91;109;26;254
+2019;Lexus;LC 500;Subcompact;50;8;AS10;Z;151;95;126;22;294
+2019;Lexus;LC 500h;Subcompact;35;6;AV10;Z;90;71;81;35;189
+2019;Lexus;LS 500 AWD;Mid-size;34;6;AS10;Z;131;87;111;25;261
+2019;Lexus;LS 500h AWD;Mid-size;35;6;AV10;Z;103;77;91;31;214
+2019;Lexus;LX 570;SUV: Standard;57;8;AS8;Z;182;128;158;18;371
+2019;Lexus;NX 300 AWD;SUV: Small;20;4;AS6;Z;107;85;97;29;226
+2019;Lexus;NX 300 AWD F SPORT;SUV: Small;20;4;AS6;Z;108;89;99;29;232
+2019;Lexus;NX 300h AWD;SUV: Small;25;4;AV6;X;72;79;75;38;176
+2019;Lexus;RC 300 AWD;Subcompact;35;6;AS6;Z;131;98;112;25;262
+2019;Lexus;RC 350 AWD;Subcompact;35;6;AS6;Z;131;98;112;25;262
+2019;Lexus;RC F;Subcompact;50;8;AS8;Z;152;95;126;22;289
+2019;Lexus;RX 350 AWD;SUV: Small;35;6;AS8;X;122;90;108;26;252
+2019;Lexus;RX 350 L AWD;SUV: Small;35;6;AS8;X;131;94;111;25;268
+2019;Lexus;RX 450h AWD;SUV: Standard;35;6;AV6;Z;75;84;79;36;185
+2019;Lexus;RX 450h L AWD;SUV: Standard;35;6;AV6;Z;81;84;81;35;190
+2019;Lexus;UX 200;Mid-size;20;4;AS10;X;80;63;72;39;168
+2019;Lexus;UX 250h;Compact;20;4;AV6;X;55;57;56;50;130
+2019;Lexus;UX 250h AWD;Compact;20;4;AV6;X;57;62;60;47;140
+2019;Lincoln;Continental AWD;Full-size;27;6;AS6;X;140;94;120;24;281
+2019;Lincoln;Continental AWD;Full-size;30;6;AS6;X;145;98;123;23;289
+2019;Lincoln;Continental AWD;Full-size;37;6;AS6;X;143;97;122;23;287
+2019;Lincoln;MKC AWD;SUV: Small;20;4;AS6;X;123;93;110;26;257
+2019;Lincoln;MKC AWD (Start/Stop);SUV: Small;20;4;AS6;X;122;93;109;26;256
+2019;Lincoln;MKC AWD;SUV: Small;23;4;AS6;X;131;95;115;25;270
+2019;Lincoln;MKT AWD;SUV: Standard;35;6;AS6;X;157;112;137;21;322
+2019;Lincoln;MKT Livery AWD;Special purpose vehicle;37;6;A6;X;147;103;127;22;297
+2019;Lincoln;MKZ AWD;Mid-size;20;4;AS6;X;121;84;104;27;245
+2019;Lincoln;MKZ AWD;Mid-size;30;6;AS6;X;140;92;118;24;278
+2019;Lincoln;MKZ Hybrid;Mid-size;20;4;AV;X;57;62;59;48;139
+2019;Lincoln;Nautilus;SUV: Small;20;4;AS8;X;120;96;107;26;250
+2019;Lincoln;Nautilus;SUV: Small;27;6;AS8;X;126;92;110;26;259
+2019;Lincoln;Navigator 4X4;SUV: Standard;35;6;AS10;X;150;114;134;21;314
+2019;Maserati;Ghibli;Mid-size;30;6;AS8;Z;141;98;122;23;286
+2019;Maserati;Ghibli S;Mid-size;30;6;AS8;Z;147;99;126;22;295
+2019;Maserati;Ghibli SQ4;Mid-size;30;6;AS8;Z;147;99;126;22;295
+2019;Maserati;GranTurismo Convertible;Subcompact;47;8;AS6;Z;178;116;150;19;354
+2019;Maserati;Levante;SUV: Standard;30;6;AS8;Z;159;111;137;21;324
+2019;Maserati;Levante S;SUV: Standard;30;6;AS8;Z;161;114;140;20;330
+2019;Maserati;Levante GTS;SUV: Standard;38;8;AS8;Z;179;129;153;18;360
+2019;Maserati;Levante Trofeo;SUV: Standard;38;8;AS8;Z;179;129;153;18;360
+2019;Maserati;Quattroporte S;Full-size;30;6;AS8;Z;151;103;128;22;299
+2019;Maserati;Quattroporte SQ4;Full-size;30;6;AS8;Z;150;103;128;22;301
+2019;Maserati;Quattroporte GTS;Full-size;38;8;AS8;Z;160;108;137;21;321
+2019;Mazda;CX-3;Compact;20;4;AS6;X;83;69;77;37;179
+2019;Mazda;CX-3;Compact;20;4;M6;X;88;70;80;35;186
+2019;Mazda;CX-3 4WD;Compact;20;4;AS6;X;86;74;81;35;189
+2019;Mazda;CX-5;SUV: Small;20;4;M6;X;97;77;88;32;206
+2019;Mazda;CX-5;SUV: Small;25;4;AS6;X;97;78;88;32;206
+2019;Mazda;CX-5 (Cylinder Deactivation);SUV: Small;25;4;AS6;X;93;76;85;33;201
+2019;Mazda;CX-5 4WD;SUV: Small;25;4;AS6;X;102;82;93;30;217
+2019;Mazda;CX-5 4WD (Cylinder Deactivation);SUV: Small;25;4;AS6;X;98;79;90;31;208
+2019;Mazda;CX-5 Turbo 4WD;SUV: Small;25;4;AS6;X;108;87;98;29;230
+2019;Mazda;CX-5 Diesel 4WD;SUV: Small;22;4;AS6;D;89;79;84;34;227
+2019;Mazda;CX-9;SUV: Small;25;4;AS6;X;106;84;96;29;225
+2019;Mazda;CX-9 4WD;SUV: Small;25;4;AS6;X;116;91;105;27;244
+2019;Mazda;Mazda3 4-Door;Compact;20;4;AS6;X;84;66;76;37;178
+2019;Mazda;Mazda3 4-Door (SIL);Compact;20;4;M6;X;87;64;77;37;180
+2019;Mazda;Mazda3 4-Door;Compact;25;4;AS6;X;88;64;77;37;181
+2019;Mazda;Mazda3 4-Door (Cylinder Deactivation);Compact;25;4;AS6;X;88;66;78;36;183
+2019;Mazda;Mazda3 4-Door 4WD;Compact;25;4;AS6;X;92;70;82;34;192
+2019;Mazda;Mazda3 5-Door;Mid-size;20;4;AS6;X;86;67;77;37;181
+2019;Mazda;Mazda3 5-Door (SIL);Mid-size;20;4;M6;X;87;66;78;36;181
+2019;Mazda;Mazda3 5-Door;Mid-size;25;4;AS6;X;90;68;80;35;187
+2019;Mazda;Mazda3 5-Door;Mid-size;25;4;M6;X;92;66;81;35;189
+2019;Mazda;Mazda3 5-Door 4WD;Mid-size;25;4;AS6;X;98;74;87;32;204
+2019;Mazda;Mazda6;Mid-size;25;4;AS6;X;91;67;80;35;187
+2019;Mazda;Mazda6 Turbo;Mid-size;25;4;AS6;X;100;75;89;32;208
+2019;Mazda;MX-5;Two-seater;20;4;AS6;Z;90;66;79;36;186
+2019;Mazda;MX-5 (SIL);Two-seater;20;4;M6;Z;90;70;81;35;189
+2019;Mercedes-Benz;A 220;Subcompact;20;4;AM7;Z;97;68;84;34;195
+2019;Mercedes-Benz;A 220 4MATIC;Subcompact;20;4;AM7;Z;96;71;85;33;199
+2019;Mercedes-Benz;A 250;Station wagon: Small;20;4;AM7;Z;94;68;83;34;192
+2019;Mercedes-Benz;A 250 4MATIC;Station wagon: Small;20;4;AM7;Z;99;70;86;33;201
+2019;Mercedes-Benz;AMG C 43 4MATIC;Compact;30;6;A9;Z;124;87;107;26;253
+2019;Mercedes-Benz;AMG C 43 4MATIC Cabriolet;Subcompact;30;6;A9;Z;127;92;112;25;263
+2019;Mercedes-Benz;AMG C 43 4MATIC Coupe;Subcompact;30;6;A9;Z;129;88;111;25;255
+2019;Mercedes-Benz;AMG C 43 4MATIC Wagon;Station wagon: Small;30;6;A9;Z;124;89;108;26;255
+2019;Mercedes-Benz;AMG C 63;Compact;40;8;A9;Z;132;87;112;25;263
+2019;Mercedes-Benz;AMG C 63 S;Compact;40;8;A9;Z;132;87;112;25;263
+2019;Mercedes-Benz;AMG C 63 S Cabriolet;Subcompact;40;8;A9;Z;139;97;120;24;282
+2019;Mercedes-Benz;AMG C 63 S Coupe;Subcompact;40;8;A9;Z;139;92;118;24;277
+2019;Mercedes-Benz;AMG CLA 45 4MATIC;Minicompact;20;4;AM7;Z;103;79;92;31;217
+2019;Mercedes-Benz;AMG CLS 53 4MATIC+;Compact;30;6;A9;Z;124;87;107;26;235
+2019;Mercedes-Benz;AMG E 53 4MATIC+;Mid-size;30;6;A9;Z;112;83;99;29;232
+2019;Mercedes-Benz;AMG E 53 4MATIC+ Cabriolet;Subcompact;30;6;A9;Z;125;90;109;26;245
+2019;Mercedes-Benz;AMG E 53 4MATIC+ Coupe;Subcompact;30;6;A9;Z;123;85;106;27;237
+2019;Mercedes-Benz;AMG E 53 4MATIC+ Wagon;Station wagon: Mid-size;30;6;A9;Z;115;86;102;28;239
+2019;Mercedes-Benz;AMG E 63 S 4MATIC+;Mid-size;40;8;A9;Z;160;105;135;21;318
+2019;Mercedes-Benz;AMG E 63 S 4MATIC+ Wagon;Station wagon: Mid-size;40;8;A9;Z;146;104;127;22;299
+2019;Mercedes-Benz;AMG G 63;SUV: Standard;40;8;A9;Z;181;156;170;17;396
+2019;Mercedes-Benz;AMG GLA 45 4MATIC;Station wagon: Mid-size;20;4;AM7;Z;107;83;96;29;225
+2019;Mercedes-Benz;AMG GLC 43 4MATIC;SUV: Small;30;6;A9;Z;125;96;112;25;262
+2019;Mercedes-Benz;AMG GLC 43 4MATIC Coupe;SUV: Small;30;6;A9;Z;126;97;113;25;265
+2019;Mercedes-Benz;AMG GLC 63 S 4MATIC+;SUV: Small;40;8;A9;Z;150;109;132;21;309
+2019;Mercedes-Benz;AMG GLC 63 S 4MATIC+ Coupe;SUV: Small;40;8;A9;Z;150;109;132;21;309
+2019;Mercedes-Benz;AMG GLE 43 4MATIC;SUV: Standard;30;6;A9;Z;140;106;124;23;292
+2019;Mercedes-Benz;AMG GLE 43 4MATIC Coupe;SUV: Standard;30;6;A9;Z;141;109;126;22;297
+2019;Mercedes-Benz;AMG GLE 63 S 4MATIC;SUV: Standard;47;8;A7;Z;177;134;158;18;370
+2019;Mercedes-Benz;AMG GLE 63 S 4MATIC Coupe;SUV: Standard;47;8;A7;Z;172;128;152;19;357
+2019;Mercedes-Benz;AMG GLS 63 4MATIC;SUV: Standard;47;8;A7;Z;178;132;157;18;370
+2019;Mercedes-Benz;AMG GT 53 4MATIC+ Coupe;Compact;30;6;A9;Z;124;98;112;25;264
+2019;Mercedes-Benz;AMG GT 63 4MATIC+ Coupe;Compact;40;8;A9;Z;155;115;137;21;323
+2019;Mercedes-Benz;AMG GT 63 S 4MATIC+ Coupe;Compact;40;8;A9;Z;156;115;137;21;324
+2019;Mercedes-Benz;AMG GT C Coupe;Two-seater;40;8;AM7;Z;153;114;135;21;315
+2019;Mercedes-Benz;AMG GT C Roadster;Two-seater;40;8;AM7;Z;152;114;135;21;315
+2019;Mercedes-Benz;AMG GT R Coupe;Two-seater;40;8;AM7;Z;159;118;140;20;327
+2019;Mercedes-Benz;AMG S 63 4MATIC+;Full-size;40;8;A9;Z;141;89;118;24;275
+2019;Mercedes-Benz;AMG S 63 4MATIC+ Cabriolet;Subcompact;40;8;A9;Z;158;98;131;22;306
+2019;Mercedes-Benz;AMG S 63 4MATIC+ Coupe;Compact;40;8;A9;Z;140;87;116;24;271
+2019;Mercedes-Benz;AMG S 65;Full-size;60;12;A7;Z;186;109;151;19;356
+2019;Mercedes-Benz;AMG S 65 Cabriolet;Subcompact;60;12;A9;Z;171;110;143;20;337
+2019;Mercedes-Benz;AMG S 65 Coupe;Compact;60;12;A9;Z;176;110;146;19;343
+2019;Mercedes-Benz;AMG SL 63;Two-seater;55;8;A7;Z;153;102;130;22;303
+2019;Mercedes-Benz;AMG SLC 43;Two-seater;30;6;A9;Z;118;82;102;28;238
+2019;Mercedes-Benz;B 250;Station wagon: Small;20;4;AM7;Z;98;68;84;34;196
+2019;Mercedes-Benz;B 250 4MATIC;Station wagon: Small;20;4;AM7;Z;103;78;91;31;215
+2019;Mercedes-Benz;C 300 4MATIC;Compact;20;4;A9;Z;110;73;94;30;219
+2019;Mercedes-Benz;C 300 4MATIC Cabriolet;Subcompact;20;4;A9;Z;113;81;99;29;231
+2019;Mercedes-Benz;C 300 4MATIC Coupe;Subcompact;20;4;A9;Z;109;77;95;30;221
+2019;Mercedes-Benz;C 300 4MATIC Wagon;Station wagon: Small;20;4;A9;Z;109;77;95;30;221
+2019;Mercedes-Benz;CLA 250;Minicompact;20;4;AM7;Z;96;66;82;34;193
+2019;Mercedes-Benz;CLA 250 4MATIC;Minicompact;20;4;AM7;Z;99;73;87;32;204
+2019;Mercedes-Benz;CLS 450 4MATIC;Compact;30;6;A9;Z;113;79;98;29;213
+2019;Mercedes-Benz;E 300 4MATIC;Mid-size;20;4;A9;Z;110;81;97;29;228
+2019;Mercedes-Benz;E 450 4MATIC;Mid-size;30;6;A9;Z;118;85;103;27;244
+2019;Mercedes-Benz;E 450 4MATIC Cabriolet;Subcompact;30;6;A9;Z;127;101;116;24;271
+2019;Mercedes-Benz;E 450 4MATIC Coupe;Subcompact;30;6;A9;Z;125;91;110;26;257
+2019;Mercedes-Benz;E 450 4MATIC Wagon;Station wagon: Mid-size;30;6;A9;Z;123;89;108;26;254
+2019;Mercedes-Benz;G 550;SUV: Standard;40;8;A9;Z;180;141;163;17;378
+2019;Mercedes-Benz;GLA 250 4MATIC;SUV: Small;20;4;AM7;Z;101;76;90;31;209
+2019;Mercedes-Benz;GLC 300 4MATIC;SUV: Small;20;4;A9;Z;110;87;100;28;234
+2019;Mercedes-Benz;GLC 300 4MATIC Coupe;SUV: Small;20;4;A9;Z;108;90;100;28;234
+2019;Mercedes-Benz;GLE 400 4MATIC;SUV: Standard;30;6;A9;Z;135;103;121;23;282
+2019;Mercedes-Benz;GLS 450 4MATIC;SUV: Standard;30;6;A9;Z;149;112;132;21;312
+2019;Mercedes-Benz;GLS 550 4MATIC;SUV: Standard;47;8;A9;Z;172;126;151;19;355
+2019;Mercedes-Benz;Maybach S 560 4MATIC;Full-size;40;8;A9;Z;144;95;122;23;286
+2019;Mercedes-Benz;Maybach S 650;Full-size;60;12;A7;Z;184;111;151;19;355
+2019;Mercedes-Benz;Metris Cargo;Special purpose vehicle;20;4;A7;Z;115;98;107;26;251
+2019;Mercedes-Benz;Metris Cargo LWB;Special purpose vehicle;20;4;A7;Z;113;96;105;27;248
+2019;Mercedes-Benz;Metris Passenger;Special purpose vehicle;20;4;A7;Z;123;103;114;25;268
+2019;Mercedes-Benz;S 450 4MATIC SWB;Mid-size;30;6;A9;Z;128;85;108;26;253
+2019;Mercedes-Benz;S 560 Cabriolet;Subcompact;40;8;A9;Z;138;92;117;24;275
+2019;Mercedes-Benz;S 560 4MATIC;Full-size;40;8;A9;Z;135;86;113;25;265
+2019;Mercedes-Benz;S 560 4MATIC SWB;Mid-size;40;8;A9;Z;135;86;113;25;265
+2019;Mercedes-Benz;SL 450;Two-seater;30;6;A9;Z;118;85;103;27;241
+2019;Mercedes-Benz;SL 550;Two-seater;47;8;A9;Z;135;93;116;24;270
+2019;Mercedes-Benz;SLC 300;Two-seater;20;4;A9;Z;100;73;88;32;205
+2019;MINI;Cooper 3 Door;Subcompact;15;3;AS6;Z;88;68;79;36;184
+2019;MINI;Cooper 3 Door;Subcompact;15;3;M6;Z;85;62;75;38;175
+2019;MINI;Cooper 5 Door;Subcompact;15;3;AS6;Z;88;68;79;36;184
+2019;MINI;Cooper 5 Door;Subcompact;15;3;M6;Z;84;63;75;38;175
+2019;MINI;Cooper Clubman ALL4;Mid-size;15;3;AS8;Z;102;76;90;31;212
+2019;MINI;Cooper Clubman ALL4;Mid-size;15;3;M6;Z;105;74;91;31;214
+2019;MINI;Cooper Convertible;Minicompact;15;3;AS6;Z;88;68;79;36;184
+2019;MINI;Cooper Convertible;Minicompact;15;3;M6;Z;84;63;75;38;175
+2019;MINI;Cooper Countryman ALL4;Station wagon: Small;15;3;AS8;Z;103;79;92;31;215
+2019;MINI;Cooper Countryman ALL4;Station wagon: Small;15;3;M6;Z;105;74;91;31;214
+2019;MINI;Cooper S 3 Door;Subcompact;20;4;AS6;Z;93;73;84;34;197
+2019;MINI;Cooper S 3 Door;Subcompact;20;4;M6;Z;102;74;90;31;210
+2019;MINI;Cooper S 5 Door;Subcompact;20;4;AS6;Z;93;73;84;34;197
+2019;MINI;Cooper S 5 Door;Subcompact;20;4;M6;Z;102;74;90;31;210
+2019;MINI;Cooper S Clubman ALL4;Mid-size;20;4;AS8;Z;104;76;92;31;214
+2019;MINI;Cooper S Clubman ALL4;Mid-size;20;4;M6;Z;114;77;97;29;227
+2019;MINI;Cooper S Convertible;Minicompact;20;4;AS6;Z;94;72;84;34;197
+2019;MINI;Cooper S Convertible;Minicompact;20;4;M6;Z;102;74;90;31;210
+2019;MINI;Cooper S Countryman ALL4;Mid-size;20;4;AS8;Z;105;76;92;31;215
+2019;MINI;Cooper S Countryman ALL4;Mid-size;20;4;M6;Z;113;78;97;29;228
+2019;MINI;John Cooper Works 3 Door;Subcompact;20;4;AS6;Z;93;73;84;34;197
+2019;MINI;John Cooper Works 3 Door;Subcompact;20;4;M6;Z;102;74;90;31;210
+2019;MINI;John Cooper Works Clubman ALL4;Mid-size;20;4;AS8;Z;104;76;92;31;214
+2019;MINI;John Cooper Works Clubman ALL4;Mid-size;20;4;M6;Z;114;77;97;29;227
+2019;MINI;John Cooper Works Convertible;Minicompact;20;4;AS6;Z;94;72;84;34;197
+2019;MINI;John Cooper Works Convertible;Minicompact;20;4;M6;Z;108;77;94;30;220
+2019;MINI;John Cooper Works Countryman ALL4;Mid-size;20;4;AS8;Z;106;78;93;30;220
+2019;MINI;John Cooper Works Countryman ALL4;Mid-size;20;4;M6;Z;113;78;97;29;228
+2019;Mitsubishi;Eclipse Cross 4WD;SUV: Small;15;4;AV8;X;96;89;93;30;216
+2019;Mitsubishi;Mirage;Compact;12;3;AV;X;66;56;62;46;143
+2019;Mitsubishi;Mirage;Compact;12;3;M5;X;71;58;65;43;151
+2019;Mitsubishi;Mirage G4;Compact;12;3;AV;X;69;57;64;44;148
+2019;Mitsubishi;Mirage G4;Compact;12;3;M5;X;72;59;66;43;153
+2019;Mitsubishi;Outlander 4WD;SUV: Small;24;4;AV6;X;99;81;91;31;212
+2019;Mitsubishi;Outlander 4WD;SUV: Small;30;6;AS6;Z;120;88;106;27;246
+2019;Mitsubishi;RVR;SUV: Small;20;4;AV6;X;97;78;88;32;206
+2019;Mitsubishi;RVR 4WD;SUV: Small;20;4;AV6;X;101;82;92;31;213
+2019;Mitsubishi;RVR 4WD;SUV: Small;24;4;AV6;X;103;83;94;30;218
+2019;Nissan;370Z;Two-seater;37;6;AS7;Z;126;93;111;25;261
+2019;Nissan;370Z;Two-seater;37;6;M6;Z;133;93;115;25;270
+2019;Nissan;370Z Roadster;Two-seater;37;6;AS7;Z;130;97;115;25;271
+2019;Nissan;370Z Roadster;Two-seater;37;6;M6;Z;136;97;118;24;279
+2019;Nissan;Altima;Mid-size;25;4;AV;X;86;61;74;38;174
+2019;Nissan;Altima SR/Platinum;Mid-size;20;4;AV;X;91;69;81;35;190
+2019;Nissan;Altima SR/Platinum;Mid-size;25;4;AV;X;85;63;75;38;177
+2019;Nissan;Altima AWD;Mid-size;25;4;AV;X;91;65;79;36;186
+2019;Nissan;Altima AWD SR/Platinum;Mid-size;25;4;AV;X;93;67;81;35;190
+2019;Nissan;Armada 4WD;SUV: Standard;56;8;AS7;X;177;129;155;18;364
+2019;Nissan;Frontier;Pickup truck: Small;25;4;A5;X;137;107;123;23;290
+2019;Nissan;Frontier;Pickup truck: Small;40;6;A5;X;147;103;127;22;299
+2019;Nissan;Frontier 4WD;Pickup truck: Small;40;6;A5;X;158;115;139;20;326
+2019;Nissan;Frontier 4WD;Pickup truck: Small;40;6;M6;X;151;115;135;21;317
+2019;Nissan;GT-R;Subcompact;38;6;AM6;Z;142;107;126;22;295
+2019;Nissan;Kicks;Mid-size;16;4;AV;X;77;66;72;39;169
+2019;Nissan;Maxima;Mid-size;35;6;AV7;Z;116;79;99;29;233
+2019;Nissan;Micra;Compact;16;4;A4;X;90;68;80;35;188
+2019;Nissan;Micra;Compact;16;4;M5;X;87;68;79;36;186
+2019;Nissan;Murano;Station wagon: Mid-size;35;6;AV7;X;117;83;102;28;240
+2019;Nissan;Murano AWD;Station wagon: Mid-size;35;6;AV7;X;117;85;103;27;242
+2019;Nissan;NV200 Cargo Van;Special purpose vehicle;20;4;AV;X;98;88;93;30;218
+2019;Nissan;Pathfinder;SUV: Small;35;6;AV;X;116;85;102;28;240
+2019;Nissan;Pathfinder 4WD;SUV: Small;35;6;AV;X;121;89;107;26;250
+2019;Nissan;Pathfinder 4WD Platinum;SUV: Small;35;6;AV;X;124;92;110;26;259
+2019;Nissan;Qashqai;Station wagon: Small;20;4;AV7;X;86;72;80;35;188
+2019;Nissan;Qashqai;Station wagon: Small;20;4;M6;X;101;81;92;31;217
+2019;Nissan;Qashqai AWD;Station wagon: Small;20;4;AV7;X;91;76;84;34;198
+2019;Nissan;Rogue;SUV: Small;25;4;AV;X;91;71;82;34;192
+2019;Nissan;Rogue AWD;SUV: Small;25;4;AV;X;96;75;87;32;204
+2019;Nissan;Sentra;Mid-size;18;4;AV;X;81;63;73;39;172
+2019;Nissan;Sentra;Mid-size;18;4;M6;X;88;66;78;36;183
+2019;Nissan;Sentra (Turbo);Mid-size;16;4;AV7;Z;89;73;82;34;193
+2019;Nissan;Sentra (Turbo);Mid-size;16;4;M6;Z;91;73;83;34;195
+2019;Nissan;Sentra Nismo;Mid-size;16;4;AV7;Z;94;78;87;32;205
+2019;Nissan;Sentra Nismo;Mid-size;16;4;M6;Z;95;76;87;32;204
+2019;Nissan;Titan;Pickup truck: Standard;56;8;AS7;X;150;112;133;21;312
+2019;Nissan;Titan 4WD;Pickup truck: Standard;56;8;AS7;X;152;111;134;21;315
+2019;Nissan;Titan 4WD Pro-4X;Pickup truck: Standard;56;8;AS7;X;159;119;141;20;331
+2019;Nissan;Versa;Mid-size;16;4;AV;X;76;62;70;40;164
+2019;Nissan;Versa;Mid-size;16;4;M5;X;86;66;77;37;180
+2019;Porsche;911 Carrera;Minicompact;30;6;AM7;Z;106;80;94;30;221
+2019;Porsche;911 Carrera;Minicompact;30;6;M7;Z;118;81;101;28;237
+2019;Porsche;911 Carrera Cabriolet;Minicompact;30;6;AM7;Z;108;83;97;29;227
+2019;Porsche;911 Carrera Cabriolet;Minicompact;30;6;M7;Z;120;82;103;27;241
+2019;Porsche;911 Carrera GTS;Minicompact;30;6;AM7;Z;115;91;104;27;243
+2019;Porsche;911 Carrera GTS;Minicompact;30;6;M7;Z;130;89;112;25;260
+2019;Porsche;911 Carrera GTS Cabriolet;Minicompact;30;6;AM7;Z;118;92;107;26;249
+2019;Porsche;911 Carrera GTS Cabriolet;Minicompact;30;6;M7;Z;127;90;110;26;258
+2019;Porsche;911 Carrera S;Minicompact;30;6;AM7;Z;108;83;97;29;226
+2019;Porsche;911 Carrera S;Minicompact;30;6;M7;Z;121;83;103;27;242
+2019;Porsche;911 Carrera S Cabriolet;Minicompact;30;6;AM7;Z;108;84;97;29;228
+2019;Porsche;911 Carrera S Cabriolet;Minicompact;30;6;M7;Z;121;83;104;27;243
+2019;Porsche;911 Carrera T;Minicompact;30;6;AM7;Z;119;91;106;27;248
+2019;Porsche;911 Carrera T;Minicompact;30;6;M7;Z;146;94;123;23;286
+2019;Porsche;911 Carrera 4;Minicompact;30;6;AM7;Z;107;83;96;29;225
+2019;Porsche;911 Carrera 4;Minicompact;30;6;M7;Z;121;83;104;27;242
+2019;Porsche;911 Carrera 4 Cabriolet;Minicompact;30;6;AM7;Z;110;84;98;29;230
+2019;Porsche;911 Carrera 4 Cabriolet;Minicompact;30;6;M7;Z;122;85;105;27;246
+2019;Porsche;911 Carrera 4 GTS;Minicompact;30;6;AM7;Z;118;92;106;27;248
+2019;Porsche;911 Carrera 4 GTS;Minicompact;30;6;M7;Z;128;89;110;26;257
+2019;Porsche;911 Carrera 4 GTS Cabriolet;Minicompact;30;6;AM7;Z;119;93;107;26;250
+2019;Porsche;911 Carrera 4 GTS Cabriolet;Minicompact;30;6;M7;Z;129;91;112;25;260
+2019;Porsche;911 Carrera 4S;Minicompact;30;6;AM7;Z;111;85;99;29;232
+2019;Porsche;911 Carrera 4S;Minicompact;30;6;M7;Z;121;84;104;27;243
+2019;Porsche;911 Carrera 4S Cabriolet;Minicompact;30;6;AM7;Z;110;85;99;29;231
+2019;Porsche;911 Carrera 4S Cabriolet;Minicompact;30;6;M7;Z;122;85;105;27;246
+2019;Porsche;911 GT2 RS;Two-seater;38;6;AM7;Z;153;112;135;21;315
+2019;Porsche;911 GT3;Two-seater;40;6;AM7;Z;158;117;139;20;324
+2019;Porsche;911 GT3;Two-seater;40;6;M6;Z;180;115;151;19;352
+2019;Porsche;911 GT3 RS;Two-seater;40;6;AM7;Z;161;122;144;20;335
+2019;Porsche;911 GT3 Touring;Two-seater;40;6;M6;Z;164;112;141;20;334
+2019;Porsche;911 Speedster;Two-seater;40;6;M6;Z;174;124;151;19;350
+2019;Porsche;911 Targa 4;Minicompact;30;6;AM7;Z;109;84;98;29;228
+2019;Porsche;911 Targa 4;Minicompact;30;6;M7;Z;122;85;105;27;246
+2019;Porsche;911 Targa 4 GTS;Minicompact;30;6;AM7;Z;121;92;108;26;251
+2019;Porsche;911 Targa 4 GTS;Minicompact;30;6;M7;Z;132;92;114;25;266
+2019;Porsche;911 Targa 4S;Minicompact;30;6;AM7;Z;111;86;100;28;233
+2019;Porsche;911 Targa 4S;Minicompact;30;6;M7;Z;122;85;105;27;246
+2019;Porsche;911 Turbo;Minicompact;38;6;AM7;Z;126;99;114;25;266
+2019;Porsche;911 Turbo Cabriolet;Minicompact;38;6;AM7;Z;127;99;114;25;267
+2019;Porsche;911 Turbo S;Minicompact;38;6;AM7;Z;126;99;114;25;266
+2019;Porsche;911 Turbo S Cabriolet;Minicompact;38;6;AM7;Z;127;99;114;25;267
+2019;Porsche;911 Turbo S Exclusive Cabriolet;Minicompact;38;6;AM7;Z;143;109;127;22;297
+2019;Porsche;Boxster;Two-seater;20;4;AM7;Z;105;80;94;30;219
+2019;Porsche;Boxster;Two-seater;20;4;M6;Z;110;83;98;29;229
+2019;Porsche;Boxster GTS;Two-seater;25;4;AM7;Z;118;92;106;27;249
+2019;Porsche;Boxster GTS;Two-seater;25;4;M6;Z;123;94;110;26;257
+2019;Porsche;Boxster S;Two-seater;25;4;AM7;Z;111;84;99;29;231
+2019;Porsche;Boxster S;Two-seater;25;4;M6;Z;121;90;107;26;249
+2019;Porsche;Cayenne;SUV: Standard;30;6;AS8;Z;125;100;114;25;265
+2019;Porsche;Cayenne S;SUV: Standard;29;6;AS8;Z;129;104;118;24;275
+2019;Porsche;Cayenne Turbo;SUV: Standard;40;8;AS8;Z;156;124;141;20;329
+2019;Porsche;Cayman;Two-seater;20;4;AM7;Z;105;80;94;30;219
+2019;Porsche;Cayman;Two-seater;20;4;M6;Z;110;83;98;29;229
+2019;Porsche;Cayman GTS;Two-seater;25;4;AM7;Z;118;92;106;27;249
+2019;Porsche;Cayman GTS;Two-seater;25;4;M6;Z;123;94;110;26;257
+2019;Porsche;Cayman S;Two-seater;25;4;AM7;Z;111;84;99;29;231
+2019;Porsche;Cayman S;Two-seater;25;4;M6;Z;121;90;107;26;249
+2019;Porsche;Macan;SUV: Small;20;4;AM7;Z;122;102;113;25;264
+2019;Porsche;Macan S;SUV: Small;30;6;AM7;Z;129;102;117;24;272
+2019;Porsche;Panamera;Full-size;30;6;AM8;Z;124;87;107;26;250
+2019;Porsche;Panamera 4;Full-size;30;6;AM8;Z;124;90;109;26;253
+2019;Porsche;Panamera 4 Executive;Full-size;30;6;AM8;Z;124;90;109;26;253
+2019;Porsche;Panamera 4 ST;Full-size;30;6;AM8;Z;122;89;107;26;250
+2019;Porsche;Panamera 4S;Full-size;29;6;AM8;Z;131;89;112;25;261
+2019;Porsche;Panamera 4S Executive;Full-size;29;6;AM8;Z;131;89;112;25;261
+2019;Porsche;Panamera 4S ST;Full-size;29;6;AM8;Z;131;98;116;24;273
+2019;Porsche;Panamera GTS;Full-size;40;8;AM8;Z;145;102;126;22;295
+2019;Porsche;Panamera GTS ST;Full-size;40;8;AM8;Z;157;105;134;21;313
+2019;Porsche;Panamera Turbo;Full-size;40;8;AM8;Z;128;92;112;25;261
+2019;Porsche;Panamera Turbo Executive;Full-size;40;8;AM8;Z;128;92;112;25;261
+2019;Porsche;Panamera Turbo ST;Full-size;40;8;AM8;Z;134;101;119;24;279
+2019;Ram;1500 eTorque;Pickup truck: Standard;36;6;A8;X;119;94;108;26;253
+2019;Ram;1500 HFE eTorque;Pickup truck: Standard;36;6;A8;X;116;90;104;27;246
+2019;Ram;1500;Pickup truck: Standard;57;8;A8;X;162;105;136;21;320
+2019;Ram;1500 eTorque;Pickup truck: Standard;57;8;A8;X;141;103;124;23;290
+2019;Ram;1500 4X4 eTorque;Pickup truck: Standard;36;6;A8;X;122;97;111;25;260
+2019;Ram;1500 4X4;Pickup truck: Standard;57;8;A8;X;161;110;138;20;325
+2019;Ram;1500 4X4 eTorque;Pickup truck: Standard;57;8;A8;X;143;111;129;22;302
+2019;Ram;1500 Classic EcoDiesel;Pickup truck: Standard;30;6;A8;D;118;86;104;27;278
+2019;Ram;1500 Classic FFV;Pickup truck: Standard;36;6;A8;X;139;96;119;24;280
+2019;Ram;1500 Classic FFV;Pickup truck: Standard;36;6;A8;E;197;138;170;17;283
+2019;Ram;1500 Classic;Pickup truck: Standard;57;8;A6;X;170;120;148;19;346
+2019;Ram;1500 Classic;Pickup truck: Standard;57;8;A8;X;157;110;136;21;319
+2019;Ram;1500 Classic 4X4 EcoDiesel;Pickup truck: Standard;30;6;A8;D;123;88;108;26;289
+2019;Ram;1500 Classic 4X4 FFV;Pickup truck: Standard;36;6;A8;X;145;102;126;22;294
+2019;Ram;1500 Classic 4X4 FFV;Pickup truck: Standard;36;6;A8;E;207;147;180;16;300
+2019;Ram;1500 Classic 4X4;Pickup truck: Standard;57;8;A6;X;187;133;163;17;382
+2019;Ram;1500 Classic 4X4;Pickup truck: Standard;57;8;A8;X;161;115;140;20;328
+2019;Ram;ProMaster City;Special purpose vehicle;24;4;A9;X;112;83;99;29;232
+2019;Rolls-Royce;Cullinan;Station wagon: Mid-size;67;12;AS8;Z;200;118;163;17;382
+2019;Rolls-Royce;Dawn;Compact;66;12;AS8;Z;203;130;170;17;397
+2019;Rolls-Royce;Ghost;Full-size;66;12;AS8;Z;203;130;170;17;397
+2019;Rolls-Royce;Ghost EWB;Full-size;66;12;AS8;Z;203;130;170;17;397
+2019;Rolls-Royce;Phantom;Full-size;67;12;AS8;Z;200;118;163;17;382
+2019;Rolls-Royce;Phantom EWB;Full-size;67;12;AS8;Z;200;118;163;17;382
+2019;Rolls-Royce;Wraith;Mid-size;66;12;AS8;Z;196;129;166;17;388
+2019;Subaru;Ascent AWD;SUV: Standard;24;4;AV8;X;116;90;104;27;244
+2019;Subaru;BRZ;Minicompact;20;4;AS6;Z;97;72;86;33;200
+2019;Subaru;BRZ;Minicompact;20;4;M6;Z;112;83;99;29;231
+2019;Subaru;Crosstrek AWD;SUV: Small;20;4;AV7;X;88;72;81;35;188
+2019;Subaru;Crosstrek AWD;SUV: Small;20;4;M6;X;105;81;94;30;220
+2019;Subaru;Forester AWD;SUV: Small;25;4;AV7;X;90;72;82;34;192
+2019;Subaru;Impreza 4-Door AWD;Mid-size;20;4;AV7;X;83;64;75;38;174
+2019;Subaru;Impreza 4-Door AWD;Mid-size;20;4;M5;X;101;75;89;32;209
+2019;Subaru;Impreza 5-Door AWD;Station wagon: Small;20;4;AV7;X;84;66;76;37;177
+2019;Subaru;Impreza 5-Door AWD;Station wagon: Small;20;4;M5;X;101;77;90;31;211
+2019;Subaru;Legacy AWD;Mid-size;25;4;AV7;X;93;70;82;34;193
+2019;Subaru;Legacy AWD;Mid-size;36;6;AV6;X;119;83;103;27;241
+2019;Subaru;Outback AWD;SUV: Small;25;4;AV7;X;94;73;85;33;198
+2019;Subaru;Outback AWD;SUV: Small;36;6;AV6;X;120;87;105;27;247
+2019;Subaru;WRX AWD;Compact;20;4;AV8;Z;126;96;112;25;256
+2019;Subaru;WRX AWD;Compact;20;4;M6;Z;113;85;100;28;235
+2019;Subaru;WRX STI AWD;Compact;25;4;M6;Z;143;107;127;22;296
+2019;Toyota;4Runner 4WD;SUV: Standard;40;6;AS5;X;143;119;132;21;308
+2019;Toyota;4Runner 4WD (Part-Time 4WD);SUV: Standard;40;6;AS5;X;143;119;132;21;308
+2019;Toyota;86;Minicompact;20;4;AS6;Z;99;73;87;32;204
+2019;Toyota;86;Minicompact;20;4;M6;Z;113;83;99;29;232
+2019;Toyota;Avalon;Mid-size;35;6;AS8;X;109;76;94;30;220
+2019;Toyota;Camry;Mid-size;25;4;AS8;X;81;57;69;41;164
+2019;Toyota;Camry LE/SE;Mid-size;25;4;AS8;X;84;61;74;38;173
+2019;Toyota;Camry XLE/XSE;Mid-size;25;4;AS8;X;85;62;75;38;175
+2019;Toyota;Camry;Mid-size;35;6;AS8;X;105;71;90;31;210
+2019;Toyota;Camry XSE;Mid-size;35;6;AS8;X;107;74;92;31;215
+2019;Toyota;Camry Hybrid LE;Mid-size;25;4;AV6;X;49;48;49;58;113
+2019;Toyota;Camry Hybrid XLE/SE;Mid-size;25;4;AV6;X;53;50;51;55;121
+2019;Toyota;C-HR;Compact;20;4;AS7;X;87;75;82;34;189
+2019;Toyota;Corolla;Mid-size;18;4;AV;X;83;65;75;38;174
+2019;Toyota;Corolla;Mid-size;18;4;AV7;X;83;67;76;37;178
+2019;Toyota;Corolla;Mid-size;18;4;M6;X;85;66;76;37;178
+2019;Toyota;Corolla LE Eco;Mid-size;18;4;AV;X;78;59;69;41;163
+2019;Toyota;Corolla Hatchback;Compact;20;4;AV10;X;75;58;67;42;157
+2019;Toyota;Corolla Hatchback;Compact;20;4;M6;X;84;63;75;38;174
+2019;Toyota;Highlander;SUV: Small;35;6;AS8;X;118;87;103;27;243
+2019;Toyota;Highlander AWD;SUV: Standard;35;6;AS8;X;121;90;106;27;250
+2019;Toyota;Highlander AWD (Start/Stop System);SUV: Standard;35;6;AS8;X;120;89;106;27;248
+2019;Toyota;Highlander AWD LE;SUV: Standard;35;6;AS8;X;117;88;104;27;242
+2019;Toyota;Highlander Hybrid AWD;SUV: Standard;35;6;AV6;X;81;85;83;34;193
+2019;Toyota;Prius;Mid-size;18;4;AV;X;44;46;44;64;105
+2019;Toyota;Prius AWD;Mid-size;18;4;AV;X;45;49;47;60;109
+2019;Toyota;Prius c;Compact;15;4;AV;X;49;55;51;55;120
+2019;Toyota;RAV4;SUV: Small;25;4;AS8;X;88;67;78;36;183
+2019;Toyota;RAV4 AWD;SUV: Small;25;4;AS8;X;92;71;83;34;190
+2019;Toyota;RAV4 Hybrid AWD;SUV: Small;25;4;AV6;X;58;63;60;47;140
+2019;Toyota;Sequoia 4WD;SUV: Standard;57;8;AS6;X;184;138;164;17;384
+2019;Toyota;Sienna;Minivan;35;6;AS8;X;124;89;108;26;254
+2019;Toyota;Sienna AWD;Minivan;35;6;AS8;X;134;96;117;24;274
+2019;Toyota;Tacoma;Pickup truck: Small;27;4;AS6;X;121;101;112;25;263
+2019;Toyota;Tacoma 4WD;Pickup truck: Small;27;4;AS6;X;127;106;117;24;274
+2019;Toyota;Tacoma 4WD;Pickup truck: Small;35;6;AS6;X;130;105;119;24;278
+2019;Toyota;Tacoma 4WD;Pickup truck: Small;35;6;M6;X;138;114;127;22;299
+2019;Toyota;Tacoma 4WD D-Cab Off-Road;Pickup truck: Small;35;6;M6;X;138;117;129;22;300
+2019;Toyota;Tundra;Pickup truck: Standard;57;8;AS6;X;177;136;159;18;371
+2019;Toyota;Tundra 4WD;Pickup truck: Standard;46;8;AS6;X;168;131;149;19;354
+2019;Toyota;Tundra 4WD;Pickup truck: Standard;57;8;AS6;X;180;141;163;17;382
+2019;Toyota;Yaris;Compact;15;4;AS6;X;73;58;66;43;155
+2019;Toyota;Yaris (SIL);Compact;15;4;M6;X;78;60;68;42;164
+2019;Toyota;Yaris Hatchback;Compact;15;4;A4;X;79;68;74;38;173
+2019;Toyota;Yaris Hatchback;Compact;15;4;M5;X;78;65;72;39;169
+2019;Volkswagen;Arteon 4MOTION;Full-size;20;4;AS8;Z;120;86;104;27;244
+2019;Volkswagen;Atlas;SUV: Small;20;4;AS8;X;116;91;105;27;245
+2019;Volkswagen;Atlas 4MOTION;SUV: Standard;36;6;AS8;X;138;102;122;23;286
+2019;Volkswagen;Beetle;Compact;20;4;AS6;X;90;71;82;34;191
+2019;Volkswagen;Beetle Convertible;Subcompact;20;4;AS6;X;90;71;82;34;191
+2019;Volkswagen;Beetle Dune;Compact;20;4;AS6;X;91;69;81;35;189
+2019;Volkswagen;Beetle Dune Convertible;Subcompact;20;4;AS6;X;91;69;81;35;189
+2019;Volkswagen;Golf;Compact;14;4;AS8;X;81;64;74;38;172
+2019;Volkswagen;Golf;Compact;14;4;M6;X;82;63;74;38;172
+2019;Volkswagen;Golf GTI;Compact;20;4;AM7;X;96;75;86;33;202
+2019;Volkswagen;Golf GTI;Compact;20;4;M6;X;98;73;87;32;203
+2019;Volkswagen;Golf R;Compact;20;4;AM7;Z;102;79;92;31;213
+2019;Volkswagen;Golf R;Compact;20;4;M6;Z;114;82;99;29;232
+2019;Volkswagen;Golf Alltrack;Station wagon: Small;18;4;AM6;X;107;80;94;30;220
+2019;Volkswagen;Golf Alltrack;Station wagon: Small;18;4;M6;X;111;78;96;29;225
+2019;Volkswagen;Golf SportWagen;Station wagon: Small;14;4;AS8;X;86;65;76;37;178
+2019;Volkswagen;Golf SportWagen;Station wagon: Small;14;4;M6;X;82;63;74;38;172
+2019;Volkswagen;Golf SportWagen 4MOTION;Station wagon: Small;18;4;AM6;X;108;81;96;29;224
+2019;Volkswagen;Golf SportWagen 4MOTION;Station wagon: Small;18;4;M6;X;108;76;93;30;218
+2019;Volkswagen;Jetta;Compact;14;4;AS8;X;78;59;70;40;162
+2019;Volkswagen;Jetta;Compact;14;4;M6;X;79;59;70;40;163
+2019;Volkswagen;Jetta GLI;Compact;20;4;AM7;X;93;72;84;34;196
+2019;Volkswagen;Jetta GLI;Compact;20;4;M6;X;96;73;85;33;200
+2019;Volkswagen;Passat;Mid-size;20;4;AS6;X;93;65;81;35;188
+2019;Volkswagen;Tiguan;SUV: Small;20;4;AS8;X;107;80;95;30;221
+2019;Volkswagen;Tiguan 4MOTION;SUV: Small;20;4;AS8;X;111;81;98;29;228
+2019;Volvo;S60 T5;Compact;20;4;AS8;Z;99;66;84;34;197
+2019;Volvo;S60 T6 AWD;Compact;20;4;AS8;Z;111;73;94;30;218
+2019;Volvo;S90 T5 AWD;Mid-size;20;4;AS8;Z;106;74;92;31;215
+2019;Volvo;S90 T6 AWD;Mid-size;20;4;AS8;Z;111;73;94;30;219
+2019;Volvo;V60 T5;Station wagon: Small;20;4;AS8;Z;99;66;84;34;197
+2019;Volvo;V60 T6 AWD;Station wagon: Small;20;4;AS8;Z;111;73;94;30;219
+2019;Volvo;V60 CC T5 AWD;Station wagon: Small;20;4;AS8;Z;108;76;93;30;218
+2019;Volvo;V90 T6 AWD;Station wagon: Mid-size;20;4;AS8;Z;111;73;94;30;219
+2019;Volvo;V90 CC T6 AWD;Station wagon: Mid-size;20;4;AS8;Z;116;81;100;28;233
+2019;Volvo;XC40 T5 AWD;SUV: Small;20;4;AS8;Z;103;75;90;31;211
+2019;Volvo;XC60 T5 AWD;SUV: Small;20;4;AS8;Z;113;85;100;28;233
+2019;Volvo;XC60 T6 AWD;SUV: Small;20;4;AS8;Z;118;86;104;27;242
+2019;Volvo;XC90 T5 AWD;SUV: Standard;20;4;AS8;Z;113;85;100;28;233
+2019;Volvo;XC90 T6 AWD;SUV: Standard;20;4;AS8;Z;121;89;107;26;250
