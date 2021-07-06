@@ -219,6 +219,7 @@ In this project you will learn basic programming concepts by creating a “Rock-
 
 <p>
   <a href="https://www.foteinisavvidou.codes/create-a-guess-the-reindeer-game-with-python/" target="_blank"><img src="https://img.shields.io/badge/Instructions-informational?style=for-the-badge" alt="Tutorial"></a>
+  <a href="/guessing-game/guess-the-reindeer.py" target="_blank"><img src="https://img.shields.io/badge/Code-critical?style=for-the-badge" alt="Code"></a>
 </p>
 
 This tutorial will teach you how to build a Christmas “Guess the reindeer” game using Python and Visual Studio Code.
@@ -236,6 +237,7 @@ In this tutorial, you will learn how to connect to your Azure Database for MySQL
 
 <p>
   <a href="https://www.foteinisavvidou.codes/how-to-build-a-tic-tac-toe-game-in-python//" target="_blank"><img src="https://img.shields.io/badge/Instructions-informational?style=for-the-badge" alt="Tutorial"></a>
+  <a href="/tic-tac-toe/tic-tac-toe.py" target="_blank"><img src="https://img.shields.io/badge/Code-critical?style=for-the-badge" alt="Code"></a>
 </p>
 
 In this tutorial, you will learn how to build the classic Tic Tac Toe game using Python and Visual Studio Code.
