@@ -138,6 +138,23 @@ In this tutorial, you will learn how to use Python and Jupyter Notebooks to inse
 
 This tutorial will show you how to manipulate and query data in an Azure SQL database using Python and Jupyter Notebooks.
 
+### Create AI-powered medical chatbots with Azure Health Bot (July 6, 2021)
+
+<p>
+  <a href="http://www.foteinisavvidou.codes/create-ai-powered-medical-chatbots-with-azure-health-bot/" target="_blank"><img src="https://img.shields.io/badge/Instructions-informational?style=for-the-badge" alt="Tutorial"></a>
+  <a href="/azure-healthbot/website-template" target="_blank"><img src="https://img.shields.io/badge/Website Template-critical?style=for-the-badge" alt="Website Template"></a>
+</p>
+
+In this article, you will build your first intelligent, AI-powered, medical chatbot using Azure Health Bot.
+
+### Create a mental health screener with Azure Health Bot (July 6, 2021)
+
+<p>
+  <a href="http://www.foteinisavvidou.codes/create-a-mental-health-screener-with-azure-health-bot/" target="_blank"><img src="https://img.shields.io/badge/Instructions-informational?style=for-the-badge" alt="Tutorial"></a>
+</p>
+
+In this article, you will learn how to author a custom scenario for mental health screening in Azure Health Bot and create a language model.
+
 <br>
 
 ## Artificial Intelligence
@@ -158,6 +175,23 @@ In this tutorial, you will learn how to create a machine learning model in Azure
 </p>
 
 In this tutorial, you will create an inference pipeline and deploy a regression model as a service in Azure Machine Learning Designer.
+
+### Create AI-powered medical chatbots with Azure Health Bot (July 6, 2021)
+
+<p>
+  <a href="http://www.foteinisavvidou.codes/create-ai-powered-medical-chatbots-with-azure-health-bot/" target="_blank"><img src="https://img.shields.io/badge/Instructions-informational?style=for-the-badge" alt="Tutorial"></a>
+  <a href="/azure-healthbot/website-template" target="_blank"><img src="https://img.shields.io/badge/Website Template-critical?style=for-the-badge" alt="Website Template"></a>
+</p>
+
+In this article, you will build your first intelligent, AI-powered, medical chatbot using Azure Health Bot.
+
+### Create a mental health screener with Azure Health Bot (July 6, 2021)
+
+<p>
+  <a href="http://www.foteinisavvidou.codes/create-a-mental-health-screener-with-azure-health-bot/" target="_blank"><img src="https://img.shields.io/badge/Instructions-informational?style=for-the-badge" alt="Tutorial"></a>
+</p>
+
+In this article, you will learn how to author a custom scenario for mental health screening in Azure Health Bot and create a language model.
 
 <br>
 
