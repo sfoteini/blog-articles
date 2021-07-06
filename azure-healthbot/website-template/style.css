@@ -1,0 +1,24 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+html {
+  font-size: 10px;
+}
+
+body {
+  font-size: 1.6rem;
+  line-height: 1.5;
+  font-family: sans-serif;
+}
+
+h1 {
+  font-size: 3rem;
+  font-weight: 900;
+}
+
+h1, p, iframe {
+    margin: 1rem;
+}
