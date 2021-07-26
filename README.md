@@ -155,6 +155,15 @@ In this article, you will build your first intelligent, AI-powered, medical chat
 
 In this article, you will learn how to author a custom scenario for mental health screening in Azure Health Bot and create a language model.
 
+### Predict the risk of chronic kidney disease with Azure Machine Learning (July 26, 2021)
+
+<p>
+  <a href="https://www.foteinisavvidou.codes/predict-the-risk-of-chronic-kidney-disease-with-azure-machine-learning" target="_blank"><img src="https://img.shields.io/badge/Instructions-informational?style=for-the-badge" alt="Instructions"></a>
+  <a href="chronic-kidney-disease/chronic_kidney_disease.csv" target="_blank"><img src="https://img.shields.io/badge/Dataset-red?style=for-the-badge" alt="Data"></a>
+</p>
+
+In this tutorial, you will create a classification model for chronic kidney disease prediction in Azure Machine Learning Designer.
+
 <br>
 
 ## Artificial Intelligence
@@ -192,6 +201,15 @@ In this article, you will build your first intelligent, AI-powered, medical chat
 </p>
 
 In this article, you will learn how to author a custom scenario for mental health screening in Azure Health Bot and create a language model.
+
+### Predict the risk of chronic kidney disease with Azure Machine Learning (July 26, 2021)
+
+<p>
+  <a href="https://www.foteinisavvidou.codes/predict-the-risk-of-chronic-kidney-disease-with-azure-machine-learning" target="_blank"><img src="https://img.shields.io/badge/Instructions-informational?style=for-the-badge" alt="Instructions"></a>
+  <a href="chronic-kidney-disease/chronic_kidney_disease.csv" target="_blank"><img src="https://img.shields.io/badge/Dataset-red?style=for-the-badge" alt="Data"></a>
+</p>
+
+In this tutorial, you will create a classification model for chronic kidney disease prediction in Azure Machine Learning Designer.
 
 <br>
 
