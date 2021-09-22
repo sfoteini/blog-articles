@@ -173,6 +173,15 @@ In this tutorial, you will create a classification model for chronic kidney dise
 
 In this article, we will learn how to use the pre-trained models of Azure Computer Vision service for image analysis.
 
+### Digitize your notes with the Azure Computer Vision READ API (September 22, 2021)
+<p>
+  <a href="https://www.foteinisavvidou.codes/digitize-your-notes-with-azure-computer-vision-read-api/" target="_blank"><img src="https://img.shields.io/badge/Instructions-informational?style=for-the-badge" alt="Tutorial"></a>
+  <a href="https://github.com/sfoteini/azure-computer-vision" target="_blank"><img src="https://img.shields.io/badge/Project's repo-critical?style=for-the-badge" alt="Project's repository"></a>
+  <a href="https://github.com/sfoteini/sketchnotes/blob/main/computer-vision-ocr.png?raw=true" target="_blank"><img src="https://img.shields.io/badge/Sketch note-yellow?style=for-the-badge" alt="Sketch note: Image Analysis Overview"></a>
+</p>
+
+In this article, you will use the Azure Computer Vision READ API to convert your handwritten notes into digital documents.
+
 
 <br>
 
@@ -230,6 +239,14 @@ In this tutorial, you will create a classification model for chronic kidney dise
 
 In this article, we will learn how to use the pre-trained models of Azure Computer Vision service for image analysis.
 
+### Digitize your notes with the Azure Computer Vision READ API (September 22, 2021)
+<p>
+  <a href="https://www.foteinisavvidou.codes/digitize-your-notes-with-azure-computer-vision-read-api/" target="_blank"><img src="https://img.shields.io/badge/Instructions-informational?style=for-the-badge" alt="Tutorial"></a>
+  <a href="https://github.com/sfoteini/azure-computer-vision" target="_blank"><img src="https://img.shields.io/badge/Project's repo-critical?style=for-the-badge" alt="Project's repository"></a>
+  <a href="https://github.com/sfoteini/sketchnotes/blob/main/computer-vision-ocr.png?raw=true" target="_blank"><img src="https://img.shields.io/badge/Sketch note-yellow?style=for-the-badge" alt="Sketch note: Image Analysis Overview"></a>
+</p>
+
+In this article, you will use the Azure Computer Vision READ API to convert your handwritten notes into digital documents.
 
 <br>
 
@@ -333,6 +350,15 @@ This tutorial will show you how to manipulate and query data in an Azure SQL dat
 </p>
 
 In this article, we will learn how to use the pre-trained models of Azure Computer Vision service for image analysis.
+
+### Digitize your notes with the Azure Computer Vision READ API (September 22, 2021)
+<p>
+  <a href="https://www.foteinisavvidou.codes/digitize-your-notes-with-azure-computer-vision-read-api/" target="_blank"><img src="https://img.shields.io/badge/Instructions-informational?style=for-the-badge" alt="Tutorial"></a>
+  <a href="https://github.com/sfoteini/azure-computer-vision" target="_blank"><img src="https://img.shields.io/badge/Project's repo-critical?style=for-the-badge" alt="Project's repository"></a>
+  <a href="https://github.com/sfoteini/sketchnotes/blob/main/computer-vision-ocr.png?raw=true" target="_blank"><img src="https://img.shields.io/badge/Sketch note-yellow?style=for-the-badge" alt="Sketch note: Image Analysis Overview"></a>
+</p>
+
+In this article, you will use the Azure Computer Vision READ API to convert your handwritten notes into digital documents.
 
 <br>
 <br>
