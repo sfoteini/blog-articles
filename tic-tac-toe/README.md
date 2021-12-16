@@ -1,7 +1,7 @@
 # How to build a Tic Tac Toe Game in Python
 
 <p>
-  <a href="https://www.foteinisavvidou.codes/how-to-build-a-tic-tac-toe-game-in-python//" target="_blank"><img src="https://img.shields.io/badge/Instructions-informational?style=for-the-badge" alt="Tutorial"></a>
+  <a href="https://foteinisavvidou.azurewebsites.net/how-to-build-a-tic-tac-toe-game-in-python//" target="_blank"><img src="https://img.shields.io/badge/Instructions-informational?style=for-the-badge" alt="Tutorial"></a>
   <a href="tic-tac-toe.py" target="_blank"><img src="https://img.shields.io/badge/Code-critical?style=for-the-badge" alt="Code"></a>
 </p>
 
