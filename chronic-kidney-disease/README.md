@@ -1,7 +1,7 @@
 # Predict the risk of chronic kidney disease with Azure Machine Learning
 
 <p>
-  <a href="https://www.foteinisavvidou.codes/predict-the-risk-of-chronic-kidney-disease-with-azure-machine-learning" target="_blank"><img src="https://img.shields.io/badge/Instructions-informational?style=for-the-badge" alt="Instructions"></a>
+  <a href="https://foteinisavvidou.azurewebsites.net/predict-the-risk-of-chronic-kidney-disease-with-azure-machine-learning" target="_blank"><img src="https://img.shields.io/badge/Instructions-informational?style=for-the-badge" alt="Instructions"></a>
   <a href="chronic_kidney_disease.csv" target="_blank"><img src="https://img.shields.io/badge/Dataset-red?style=for-the-badge" alt="Data"></a>
 </p>
 
