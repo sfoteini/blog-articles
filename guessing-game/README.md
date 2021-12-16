@@ -1,7 +1,7 @@
 # Create a Christmas guessing game with Python
 
 <p>
-  <a href="https://www.foteinisavvidou.codes/create-a-guess-the-reindeer-game-with-python/" target="_blank"><img src="https://img.shields.io/badge/Instructions-informational?style=for-the-badge" alt="Tutorial"></a>
+  <a href="https://foteinisavvidou.azurewebsites.net/create-a-guess-the-reindeer-game-with-python/" target="_blank"><img src="https://img.shields.io/badge/Instructions-informational?style=for-the-badge" alt="Tutorial"></a>
   <a href="guess-the-reindeer.py" target="_blank"><img src="https://img.shields.io/badge/Code-critical?style=for-the-badge" alt="Code"></a>
 </p>
 
