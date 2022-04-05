@@ -3,6 +3,15 @@ A list of my articles published at my blog [foteinisavvidou.azurewebsites.net](h
 
 <br>
 
+### Build an AI web app with Azure Cognitive Services and Flask (April 5, 2022)
+<p>
+  <a href="http://foteinisavvidou.azurewebsites.net/build-an-ai-web-app-with-azure-cognitive-services-and-flask/" target="_blank"><img src="https://img.shields.io/badge/Instructions-informational?style=for-the-badge" alt="Tutorial"></a>
+  <a href="https://techcommunity.microsoft.com/t5/educator-developer-blog/build-an-ai-web-app-with-azure-cognitive-services-and-flask/ba-p/3273489" target="_blank"><img src="https://img.shields.io/badge/Microsoft Tech Community Blog-critical?style=for-the-badge" alt="Tutorial"></a>
+  <a href="https://github.com/sfoteini/Flask-AI-WebApp" target="_blank"><img src="https://img.shields.io/badge/Project's repo-yellow?style=for-the-badge" alt="Project's repo"></a>
+</p>
+
+In this blog post, you will build a website using Flask and Azure Cognitive Services to extract and translate text from notes.
+
 ### Translate your notes with Azure Translator and Python (March 28, 2022)
 <p>
   <a href="https://foteinisavvidou.azurewebsites.net/translate-your-notes-with-azure-translator-and-python" target="_blank"><img src="https://img.shields.io/badge/Instructions-informational?style=for-the-badge" alt="Tutorial"></a>
