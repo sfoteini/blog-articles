@@ -3,6 +3,15 @@ A list of my articles published at my blog [foteinisavvidou.azurewebsites.net](h
 
 <br>
 
+### Deploy a Flask AI web app to Azure App Service (April 25, 2022)
+<p>
+  <a href="http://foteinisavvidou.azurewebsites.net/deploy-a-flask-ai-web-app-to-azure-app-service/" target="_blank"><img src="https://img.shields.io/badge/Instructions-informational?style=for-the-badge" alt="Tutorial"></a>
+  <a href="https://techcommunity.microsoft.com/t5/educator-developer-blog/deploy-a-flask-ai-web-app-to-azure-app-service/ba-p/3274448" target="_blank"><img src="https://img.shields.io/badge/Microsoft Tech Community Blog-critical?style=for-the-badge" alt="Tutorial"></a>
+  <a href="https://github.com/sfoteini/Flask-AI-WebApp" target="_blank"><img src="https://img.shields.io/badge/Project's repo-yellow?style=for-the-badge" alt="Project's repo"></a>
+</p>
+
+In this blog post, you will deploy an AI Flask application app to Azure App Service using Visual Studio Code.
+
 ### Build an AI web app with Azure Cognitive Services and Flask (April 5, 2022)
 <p>
   <a href="http://foteinisavvidou.azurewebsites.net/build-an-ai-web-app-with-azure-cognitive-services-and-flask/" target="_blank"><img src="https://img.shields.io/badge/Instructions-informational?style=for-the-badge" alt="Tutorial"></a>
