@@ -3,6 +3,14 @@ A list of my articles published at my blog [foteinisavvidou.azurewebsites.net](h
 
 <br>
 
+### Student Ambassadors take over Global Azure Live! (May 7, 2022)
+
+<p>
+  <a href="https://foteinisavvidou.azurewebsites.net/student-ambassadors-take-over-global-azure-live/" target="_blank"><img src="https://img.shields.io/badge/Event Resources-informational?style=for-the-badge" alt="Event"></a>
+</p>
+
+The panel discussion “Student Ambassadors take over Global Azure Live!” with Gold Microsoft Learn Student Ambassadors at Global Azure 2022.
+
 ### Deploy a Flask AI web app to Azure App Service (April 25, 2022)
 <p>
   <a href="http://foteinisavvidou.azurewebsites.net/deploy-a-flask-ai-web-app-to-azure-app-service/" target="_blank"><img src="https://img.shields.io/badge/Instructions-informational?style=for-the-badge" alt="Tutorial"></a>
