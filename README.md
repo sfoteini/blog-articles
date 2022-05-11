@@ -3,6 +3,14 @@ A list of my articles published at my blog [foteinisavvidou.azurewebsites.net](h
 
 <br>
 
+### Empowering patients and healthcare organizations through Azure AI Services (May 11, 2022)
+
+<p>
+  <a href="https://foteinisavvidou.azurewebsites.net/empowering-patients-and-healthcare-organizations-through-azure-ai-services/" target="_blank"><img src="https://img.shields.io/badge/Event Resources-informational?style=for-the-badge" alt="Event"></a>
+</p>
+
+The session “Empowering patients and healthcare organizations through Azure AI Services” presented at the Boston Healthcare User Group.
+
 ### Student Ambassadors take over Global Azure Live! (May 7, 2022)
 
 <p>
