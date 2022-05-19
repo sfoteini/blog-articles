@@ -3,6 +3,14 @@ A list of my articles published at my blog [foteinisavvidou.azurewebsites.net](h
 
 <br>
 
+### Celebrating Global Accessibility Awareness Day! (May 19, 2022)
+
+<p>
+  <a href="https://foteinisavvidou.azurewebsites.net/celebrating-global-accessibility-awareness-day/" target="_blank"><img src="https://img.shields.io/badge/Resources-informational?style=for-the-badge" alt="Learning Resources"></a>
+</p>
+
+Today, May 19th, 2022, is the 11th Global Accessibility Awareness Day! This day aims to raise awareness of digital access and inclusion.
+
 ### Empowering patients and healthcare organizations through Azure AI Services (May 11, 2022)
 
 <p>
