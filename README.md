@@ -3,6 +3,16 @@ A list of my articles published at my blog [foteinisavvidou.azurewebsites.net](h
 
 <br>
 
+### Use a TensorFlow model exported from Azure Custom Vision (July 18, 2022)
+
+<p>
+  <a href="https://foteinisavvidou.azurewebsites.net/use-a-tensorflow-model-exported-from-azure-custom-vision/" target="_blank"><img src="https://img.shields.io/badge/Instructions-informational?style=for-the-badge" alt="Tutorial"></a>
+  <a href="https://github.com/sfoteini/azure-custom-vision/tree/main/export-tensorflow" target="_blank"><img src="https://img.shields.io/badge/Python App-critical?style=for-the-badge" alt="Source code"></a>
+  <a href="https://github.com/sfoteini/sketchnotes/blob/main/custom-vision.jpg?raw=true" target="_blank"><img src="https://img.shields.io/badge/Sketch note-yellow?style=for-the-badge" alt="Sketch note: Image Analysis Overview"></a>
+</p>
+
+In this article, you will learn how to export a Custom Vision model in TensorFlow format for use with Python apps.
+
 ### Celebrating Global Accessibility Awareness Day! (May 19, 2022)
 
 <p>
